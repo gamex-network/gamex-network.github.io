@@ -1,0 +1,29 @@
+site_name: GAMEX
+site_description: Generative AI Modeling for Extreme Events
+site_url: https://gamex-network.github.io/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Project: project.md
+  - People: people.md
+  - Activities:
+      - Events: events.md
+      - Seminar Series: seminars.md
+      - Mobility: mobility.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
