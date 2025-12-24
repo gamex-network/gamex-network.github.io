@@ -27,3 +27,10 @@ markdown_extensions:
       permalink: true
   - tables
   - attr_list
+
+extra:
+  generator: false
+
+copyright: >
+  © 2026 GAMEX — Generative AI Modeling for Extreme Events.  
+  Funded by <strong>Una Europa</strong> under the Seed Funding initiative.
