@@ -3,7 +3,7 @@
 ## Coordination
 
 - **Luca Trapin** — University of Bologna  
-  *Principal Investigator* and *Workshop coordinator  
+  *Principal Investigator* and *Workshop coordinator*
 
 
 - **Miguel de Carvalho** — University of Edinburgh  
