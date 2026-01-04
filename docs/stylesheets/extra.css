@@ -1,7 +1,47 @@
+/* =========================
+   GAMEX – Petrol theme
+   ========================= */
+
 /* Header background */
 .md-header {
   background-color: #114b5f !important;
 }
+
+/* Top navigation links */
+.md-header__inner .md-nav__link {
+  color: #ffffff !important;
+}
+
+/* Hover on top navigation */
+.md-header__inner .md-nav__link:hover,
+.md-header__inner .md-nav__link--active {
+  background-color: #0e3f50 !important;
+  color: #ffffff !important;
+}
+
+/* Tabs hover (if tabs are enabled) */
+.md-tabs {
+  background-color: #114b5f !important;
+}
+
+.md-tabs__link {
+  color: #ffffff !important;
+}
+
+.md-tabs__link:hover,
+.md-tabs__link--active {
+  background-color: #0e3f50 !important;
+}
+
+/* Optional: links inside content */
+.md-content a {
+  color: #114b5f;
+}
+
+.md-content a:hover {
+  color: #0e3f50;
+}
+
 
 /* Hide the search UI (icon + bar) */
 .md-search {
