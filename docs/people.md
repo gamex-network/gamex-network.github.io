@@ -3,46 +3,39 @@
 ## Coordination
 
 - **Luca Trapin** — University of Bologna  
-  *Principal Investigator; Workshop coordinator; Mobility coordinator; Seminar co-coordinator*  
-  Website: https://www.unibo.it/sitoweb/luca.trapin
+  *Principal Investigator* and *Workshop coordinator  
+
 
 - **Miguel de Carvalho** — University of Edinburgh  
-  *Summer School coordinator; Seminar co-coordinator*  
-  Website: https://www.maths.ed.ac.uk/~mdecarva/
+  *Summer School coordinator*
 
 ---
 
 ## Partner Institutions
 
 ### University of Bologna
-- **Luca Trapin** — Associate Professor  
-  https://www.unibo.it/sitoweb/luca.trapin
-- **Massimo Ricci** — Postdoctoral Researcher  
-- **Leonardo Becarelli** — PhD Student  
+- [**Luca Trapin**](https://www.unibo.it/sitoweb/luca.trapin) — Associate Professor   
+- **Massimo Ventrucci** — Associate Professor  
 - **Ivo Bonfanti** — PhD Student  
 
 ### University of Edinburgh
-- **Miguel de Carvalho** — Professor (Chair of Statistical Data Science)  
-  https://www.maths.ed.ac.uk/~mdecarva/
+- [**Miguel de Carvalho**](https://www.maths.ed.ac.uk/~mdecarva/) — Professor (Chair of Statistical Data Science) 
 - **Johnny Lee** — PhD Student  
 
 ### University College Dublin
-- **Brendan Murphy** — Full Professor  
-  https://people.ucd.ie/brendan.murphy
+- [**Brendan Murphy**](https://people.ucd.ie/brendan.murphy) — Full Professor
 - **PhD Student** — TBA  
 
 ### Pontificia Universidad Católica de Chile
-- **Luis Gutiérrez Inostroza** — Associate Professor  
-  https://www.mat.uc.cl/~lgutierrez/
+- [**Luis Gutiérrez Inostroza**](https://www.mat.uc.cl/~lgutierrez/) — Associate Professor  
 - **Clemente Ferrer** — PhD Student  
 
 ### University of Zurich & ETH AI Center
-- **Giorgia Ramponi** — Assistant Professor  
-  https://www.giorgiaramponi.com/
+- [**Giorgia Ramponi**](https://www.ifi.uzh.ch/en/alpi/people/ramponi.html) — Assistant Professor  
 - **Till Freihaut** — PhD Student  
 
 ---
 
 ## External collaborators
 Additional academic and industrial collaborators will be listed here as the network expands.
-people.md
+
