@@ -14,7 +14,8 @@ nav:
   - Project: project.md
   - People: people.md
   - Activities:
-      - Events: events.md
+      - Scientific Workshop: workshop.md
+      - Summer School: school.md
       - Seminar Series: seminars.md
       - Mobility: mobility.md
   - Contact: contact.md
