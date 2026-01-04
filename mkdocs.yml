@@ -23,7 +23,7 @@ nav:
 markdown_extensions:
   - admonition
   - toc:
-      permalink: true
+      permalink: false
   - tables
   - attr_list
 
