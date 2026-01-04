@@ -3,7 +3,7 @@
 For general inquiries, seminars, mobility opportunities, or partnership proposals, please contact:
 
 - **Luca Trapin** — University of Bologna  
-  Principal Investigator, GAMEX
+  Workshop, Mobility & Seminar Series
 
 - **Miguel de Carvalho** — University of Edinburgh  
   Summer School & Seminar Series
