@@ -42,8 +42,22 @@
   color: #0e3f50;
 }
 
+/* Body text */
 .md-content {
-  font-size: 1.1rem;
+  font-size: 1.08rem;
+}
+
+/* Section headings */
+.md-content h1 {
+  font-size: 2.2rem;
+}
+
+.md-content h2 {
+  font-size: 1.7rem;
+}
+
+.md-content h3 {
+  font-size: 1.35rem;
 }
 
 /* Hide the search UI (icon + bar) */
