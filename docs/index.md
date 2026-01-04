@@ -7,14 +7,6 @@ The project brings together researchers in statistics, machine learning, and dat
 
 ---
 
-## Why GAMEX
-
-Extreme events such as floods, heatwaves, and financial crises are increasingly central to scientific analysis and decision-making. While modern generative models scale efficiently to complex, high-dimensional data, they often fail to reproduce tail behaviour and extreme dependence structures.
-
-GAMEX addresses this gap by fostering collaboration between experts in EVT and Generative AI, with the goal of developing models that are both scalable and theoretically grounded.
-
----
-
 ## Key activities in 2026
 
 - **Scientific Workshop**  
