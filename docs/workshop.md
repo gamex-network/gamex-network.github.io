@@ -1,4 +1,5 @@
-# Scientific Workshop  GAME2026
+# Scientific Workshop  
+## GAME2026
 **Dates:** 11–12 June 2026  
 **Location:** University of Bologna
 
