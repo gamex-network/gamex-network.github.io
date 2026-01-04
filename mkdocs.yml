@@ -4,8 +4,6 @@ site_url: https://gamex-network.github.io/
 
 theme:
   name: material
-  logo: null
-  favicon: null
   language: en
   features:
     - navigation.tabs
