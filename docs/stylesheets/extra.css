@@ -10,5 +10,15 @@
 
 /* Increase spacing between main content and right-hand ToC */
 .md-content {
-  margin-right: 30rem;
+  margin-right: 3rem;
+}
+
+/* Push the table of contents further to the right */
+.md-sidebar--secondary {
+  padding-left: 2rem;
+}
+
+/* Justify main text content */
+.md-content p {
+  text-align: justify;
 }
