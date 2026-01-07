@@ -6,16 +6,16 @@
 
 ## Key activities in 2026
 
-- **[Scientific Workshop](activities/workshop.md)**  
+- **[Scientific Workshop](workshop.md)**  
   *University of Bologna, 11–12 June 2026*
 
-- **[Summer School on Generative AI for Extremes](activities/summer-school.md)**  
+- **[Summer School on Generative AI for Extremes](school.md)**  
   *University of Edinburgh, 8–11 September 2026*
 
 - **[Online Seminar Series](activities/seminars.md)**  
   Regular talks by GAMEX partners and invited external speakers
 
-- **[Short-term Research Visits](activities/mobility.md)**  
+- **[Short-term Research Visits](mobility.md)**  
   Mobility opportunities for PhD students and early-career researchers (ECRs)
 
 ---
