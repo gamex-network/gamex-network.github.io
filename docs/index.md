@@ -12,7 +12,7 @@
 - **[Summer School on Generative AI for Extremes](school.md)**  
   *University of Edinburgh, 8–11 September 2026*
 
-- **[Online Seminar Series](activities/seminars.md)**  
+- **[Online Seminar Series](seminars.md)**  
   Regular talks by GAMEX partners and invited external speakers
 
 - **[Short-term Research Visits](mobility.md)**  
