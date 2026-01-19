@@ -28,5 +28,7 @@ GAMEX is conceived as a platform, not a stand-alone project. Beyond its 2026 act
 - Interested in a research visit? → see **[Mobility](mobility.md)**  
 - Interested in joining the network? → see **[Contact](contact.md)**
 
-![UnaEuropaThanks](assets/UnaEuropaThanks.png){: style="display:block; margin: 0 auto; width: 75%;" }
+<br>
+
+![UnaEuropaThanks](assets/UnaEuropaThanks.png){: style="display:block; margin: 0 auto; width: 65%;" }
 
