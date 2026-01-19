@@ -93,17 +93,38 @@
 }
 
 
-/* UNA EUROPA logo in the RIGHT SIDEBAR (above ToC, not inside ToC) */
-.md-sidebar--secondary .md-sidebar__scrollwrap::before {
-  content: "";
-  display: block;
+/* =========================
+   UNA EUROPA logo in header
+   aligned with right ToC
+   ========================= */
 
-  background: url("../assets/UnaEuropaLogo.png") no-repeat center;
-  background-size: contain;
+@media (min-width: 60em) {
 
-  height: 64px;            /* logo height */
-  margin: 1rem 0 1rem 0;   /* spacing */
-  opacity: 0.95;
+  /* Create space on the right side of the header */
+  .md-header__inner {
+    padding-right: 120px;
+  }
+
+  /* Inject the logo on the right side of the header */
+  .md-header__inner::after {
+    content: "";
+    display: block;
+
+    position: absolute;
+    top: 50%;
+    right: 24px;
+    transform: translateY(-50%);
+
+    width: 90px;
+    height: 36px;
+
+    background: url("../assets/UnaEuropaLogo.png") no-repeat center;
+    background-size: contain;
+
+    opacity: 0.95;
+    pointer-events: none;
+  }
 }
+
 
 
