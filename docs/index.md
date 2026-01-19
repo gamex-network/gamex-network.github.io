@@ -2,7 +2,7 @@
 
 **Generative AI Modeling for Extreme Events: Statistical Foundations**, or simply **GAMEX**, is a [**Una Europa seed-funded initiative (2026)**](https://www.una-europa.eu/opportunities/seed-funding) that brings together researchers in statistics, machine learning, and data science to build an international research network at the interface of **Generative Artificial Intelligence (AI)** and **Extreme Value Theory (EVT)**, with the aim of developing reliable, interpretable, and scalable methods for modeling rare, high-impact events.
 
-![GAMEX overview](assets/GAMEX-project.jpg)
+![GAMEX overview](assets/GAMEX-project.jpg){: style="display:block; margin: 0 auto;" }
 
 ---
 
@@ -22,14 +22,9 @@
 
 ---
 
-## A platform for long-term collaboration
-
-GAMEX is conceived as a **platform**, not a stand-alone project. Beyond its 2026 activities, the network aims to support future collaborative initiatives and to expand through additional academic and industrial partnerships.
-
----
-
 ## Get involved
+GAMEX is conceived as a platform, not a stand-alone project. Beyond its 2026 activities, the network aims to support future collaborative initiatives and to expand through additional academic and industrial partnerships.
 
-- Interested in giving a talk? → see **Seminar Series**  
-- Interested in a research visit? → see **Mobility**  
-- Interested in joining the network? → see **Contact**
+- Interested in giving a talk? → see **[Seminar Series](seminars.md)**  
+- Interested in a research visit? → see **[Mobility](mobility.md)**  
+- Interested in joining the network? → see **[Contact](contact.md)**
