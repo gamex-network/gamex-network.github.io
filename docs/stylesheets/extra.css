@@ -80,17 +80,15 @@
   text-align: justify;
 }
 
-/* Hide "Home" link ONLY in the left sidebar */
-.md-sidebar--primary a[href="./"],
-.md-sidebar--primary a[href="/"],
-.md-sidebar--primary a[href="index/"],
-.md-sidebar--primary a[href="./index/"] {
+/* Hide ONLY the Home item in the left sidebar (robust) */
+.md-sidebar--primary .md-nav__link[href$="/"],
+.md-sidebar--primary .md-nav__link[href$="/index/"],
+.md-sidebar--primary .md-nav__link[href$="/index.html"],
+.md-sidebar--primary .md-nav__link[href$="./"],
+.md-sidebar--primary .md-nav__link[href$="./index/"] {
   display: none !important;
 }
 
-.md-sidebar--primary .md-nav__list > .md-nav__item:first-child {
-  display: none !important;
-}
 
 /* Keep right sidebar but hide the Table of Contents content */
 .md-sidebar--secondary .md-nav--secondary {
