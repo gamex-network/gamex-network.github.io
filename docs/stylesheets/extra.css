@@ -92,6 +92,11 @@
   display: none !important;
 }
 
+/* Keep right sidebar but hide the Table of Contents content */
+.md-sidebar--secondary .md-nav--secondary {
+  display: none !important;
+}
+
 
 /* =========================
    UNA EUROPA logo in header
