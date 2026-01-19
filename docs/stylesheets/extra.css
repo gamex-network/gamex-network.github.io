@@ -95,14 +95,14 @@
 
 /* =========================
    UNA EUROPA logo in header
-   aligned with right ToC
+   larger + shifted left
    ========================= */
 
 @media (min-width: 60em) {
 
-  /* Create space on the right side of the header */
+  /* Increase right padding to avoid overlap with nav */
   .md-header__inner {
-    padding-right: 120px;
+    padding-right: 260px;
   }
 
   /* Inject the logo on the right side of the header */
@@ -112,19 +112,20 @@
 
     position: absolute;
     top: 50%;
-    right: 24px;
+    right: 204px;              /* ~5 cm to the left */
     transform: translateY(-50%);
 
-    width: 90px;
-    height: 36px;
+    width: 180px;              /* doubled size */
+    height: 72px;              /* doubled size */
 
-    background: url("../assets/UnaEuropaLogo.png") no-repeat center;
+    background: url("../assets/una-europa-logo.svg") no-repeat center;
     background-size: contain;
 
     opacity: 0.95;
     pointer-events: none;
   }
 }
+
 
 
 
