@@ -112,8 +112,8 @@
 
     position: absolute;
     top: 60%;
-    right: 340px;              /* ~5 cm to the left */
-    transform: translateY(-50%);
+    right: 300px;              /* ~5 cm to the left */
+    transform: translateY(-70%);
 
     width: 270px;              /* doubled size */
     height: 108px;              /* doubled size */
