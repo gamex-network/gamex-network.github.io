@@ -88,3 +88,17 @@
   display: none !important;
 }
 
+/* UNA EUROPA logo in the RIGHT SIDEBAR (above ToC, not inside ToC) */
+.md-sidebar--secondary .md-sidebar__scrollwrap::before {
+  content: "";
+  display: block;
+
+  background: url("../assets/UnaEuropaLogo.png") no-repeat center;
+  background-size: contain;
+
+  height: 64px;            /* logo height */
+  margin: 1rem 0 1rem 0;   /* spacing */
+  opacity: 0.95;
+}
+
+
