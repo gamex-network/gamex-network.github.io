@@ -80,25 +80,11 @@
   text-align: justify;
 }
 
-/* Hide left sidebar ONLY on the home page */
-[data-md-page="index"] .md-sidebar--primary {
-  display: none;
-}
-
-/* =========================
-   Logo above Table of Contents
-   ========================= */
-
-/* Container above the right ToC */
-.md-sidebar--secondary::before {
-  content: "";
-  display: block;
-  background-image: url("../assets/UnaEuropaLogo.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
-
-  height: 80px;          /* adjust logo height */
-  margin: 1rem 0 1.5rem; /* spacing above/below */
+/* Hide "Home" link ONLY in the left sidebar */
+.md-sidebar--primary a[href="./"],
+.md-sidebar--primary a[href="/"],
+.md-sidebar--primary a[href="index/"],
+.md-sidebar--primary a[href="./index/"] {
+  display: none !important;
 }
 
