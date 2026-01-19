@@ -111,7 +111,7 @@
     display: block;
 
     position: absolute;
-    top: 50%;
+    top: 60%;
     right: 204px;              /* ~5 cm to the left */
     transform: translateY(-50%);
 
