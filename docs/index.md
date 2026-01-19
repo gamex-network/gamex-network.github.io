@@ -30,5 +30,5 @@ GAMEX is conceived as a platform, not a stand-alone project. Beyond its 2026 act
 
 <br>
 
-![UnaEuropaThanks](assets/UnaEuropaThanks.png){: style="display:block; margin: 0 auto; width: 65%;" }
+![UnaEuropaThanks](assets/UnaEuropaThanks.png){: style="display:block; margin: 0 auto; width: 50%;" }
 
