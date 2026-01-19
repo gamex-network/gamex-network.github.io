@@ -10,7 +10,6 @@ theme:
     - navigation.top
 
 nav:
-  - Home: index.md
   - Project: project.md
   - People: people.md
   - Activities:
