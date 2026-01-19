@@ -88,6 +88,11 @@
   display: none !important;
 }
 
+.md-sidebar--primary .md-nav__list > .md-nav__item:first-child {
+  display: none !important;
+}
+
+
 /* UNA EUROPA logo in the RIGHT SIDEBAR (above ToC, not inside ToC) */
 .md-sidebar--secondary .md-sidebar__scrollwrap::before {
   content: "";
