@@ -118,7 +118,7 @@
     width: 180px;              /* doubled size */
     height: 72px;              /* doubled size */
 
-    background: url("../assets/una-europa-logo.svg") no-repeat center;
+    background: url("../assets/UnaEuropaLogo.png") no-repeat center;
     background-size: contain;
 
     opacity: 0.95;
