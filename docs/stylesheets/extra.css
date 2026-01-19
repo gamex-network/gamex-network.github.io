@@ -112,7 +112,7 @@
 
     position: absolute;
     top: 60%;
-    right: 204px;              /* ~5 cm to the left */
+    right: 340px;              /* ~5 cm to the left */
     transform: translateY(-50%);
 
     width: 180px;              /* doubled size */
