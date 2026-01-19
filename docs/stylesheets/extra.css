@@ -115,8 +115,8 @@
     right: 340px;              /* ~5 cm to the left */
     transform: translateY(-50%);
 
-    width: 180px;              /* doubled size */
-    height: 72px;              /* doubled size */
+    width: 270px;              /* doubled size */
+    height: 108px;              /* doubled size */
 
     background: url("../assets/UnaEuropaLogo.png") no-repeat center;
     background-size: contain;
