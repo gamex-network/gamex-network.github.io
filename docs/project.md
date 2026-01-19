@@ -2,6 +2,9 @@
 
 The project brings together complementary expertise in Generative Artificial Intelligence (AI) and Extreme Value Theory (EVT) through coordinated research, training, and network-building activities, implemented over the period January–December 2026.
 
+## Partners
+
+
 ## Motivation
 Extreme events such as floods, heatwaves, and financial crises are increasingly central to scientific analysis and decision-making. While modern generative models scale efficiently to complex, high-dimensional data, they often fail to reproduce tail behaviour and extreme dependence structures. GAMEX connects the scalability of Generative AI with the rigor and interpretability of EVT by fostering collaboration between experts in EVT and Generative AI, with the goal of developing models that are both scalable and theoretically grounded.
 
