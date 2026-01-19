@@ -79,3 +79,8 @@
 .md-content p {
   text-align: justify;
 }
+
+/* Hide left sidebar ONLY on the home page */
+[data-md-page="index"] .md-sidebar--primary {
+  display: none;
+}
