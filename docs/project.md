@@ -3,10 +3,14 @@
 The project brings together complementary expertise in Generative Artificial Intelligence (AI) and Extreme Value Theory (EVT) through coordinated research, training, and network-building activities, implemented over the period January–December 2026.
 
 ## Partners
-![logoUNIBO](assets/logoUNIBO.png){: style="display:block; margin: 0 auto; width: 50%;" }
+![logoUNIBO](assets/logoUNIBO.png){: style="display:block; margin: 0 auto; width: 30%;" }
+
 ![logoUE](assets/logoUE.png){: style="display:block; margin: 0 auto; width: 50%;" }
-![logoUZH](assets/logoUZH.png){: style="display:block; margin: 0 auto; width: 50%;" }
+
+![logoUZH](assets/logoUZH.png){: style="display:block; margin: 0 auto; width: 30%;" }
+
 ![logoUCD](assets/logoUCD.png){: style="display:block; margin: 0 auto; width: 50%;" }
+
 ![logoPUC](assets/logoPUC.png){: style="display:block; margin: 0 auto; width: 50%;" }
 
 
