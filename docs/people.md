@@ -20,7 +20,11 @@
 
 ### University of Edinburgh
 - [**Miguel de Carvalho**](https://www.maths.ed.ac.uk/~mdecarva/) — Professor (Chair of Statistical Data Science) 
-- **Johnny Lee** — PhD Student  
+- **Johnny Lee** — PhD Student
+
+### University of Zurich
+- [**Giorgia Ramponi**](https://www.ifi.uzh.ch/en/alpi/people/ramponi.html) — Assistant Professor  
+- **Till Freihaut** — PhD Student  
 
 ### University College Dublin
 - [**Brendan Murphy**](https://people.ucd.ie/brendan.murphy) — Full Professor
@@ -29,10 +33,6 @@
 ### Pontificia Universidad Católica de Chile
 - [**Luis Gutiérrez Inostroza**](https://www.mat.uc.cl/~lgutierrez/) — Associate Professor  
 - **Clemente Ferrer** — PhD Student  
-
-### University of Zurich & ETH AI Center
-- [**Giorgia Ramponi**](https://www.ifi.uzh.ch/en/alpi/people/ramponi.html) — Assistant Professor  
-- **Till Freihaut** — PhD Student  
 
 ---
 
