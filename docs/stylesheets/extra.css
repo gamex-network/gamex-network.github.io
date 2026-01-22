@@ -85,10 +85,21 @@
   display: none !important;
 }
 
-/* Hide top-level sidebar items that have no sub-nav (works in browsers moderni) */
-.md-sidebar--primary .md-nav__list > .md-nav__item:not(:has(.md-nav__sub-nav)) {
+/* =========================
+   Sidebar behavior:
+   show ONLY on Activities
+   ========================= */
+
+/* Hide left sidebar everywhere */
+.md-sidebar--primary {
   display: none !important;
 }
+
+/* Show left sidebar ONLY on Activities page */
+[data-md-page="activities"] .md-sidebar--primary {
+  display: block !important;
+}
+
 
 
 /* =========================
