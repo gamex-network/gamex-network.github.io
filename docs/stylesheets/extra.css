@@ -98,6 +98,14 @@
   display: none !important;
 }
 
+/* Riautomatismo: se Activities è stata nascosta per errore,
+   forza la sua visualizzazione (controlla l'href che genera MkDocs).
+   Aggiungi tutte le varianti di href che vedi nel DOM. */
+.md-sidebar--primary .md-nav__item:has(.md-nav__link[href$="activities/"]),
+.md-sidebar--primary .md-nav__item:has(.md-nav__link[href$="activities"]) {
+  display: block !important;
+}
+
 
 /* =========================
    UNA EUROPA logo in header
