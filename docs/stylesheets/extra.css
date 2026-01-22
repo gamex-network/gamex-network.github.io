@@ -89,13 +89,23 @@
    Sidebar behavior:
    show ONLY on Activities
    ========================= */
-/* Nascondi SOLO i top-level items che:
-   1) sono link reali (.md-nav__link con href)
-   2) NON hanno una sub-nav
-   -> così non tocchiamo Activities che è un contenitore */
+/* Nascondi solo i top-level che:
+   1) sono link cliccabili (.md-nav__link[href])
+   2) non hanno una sub-nav
+   (ma NON toccare l'item Activities: lo riattiviamo esplicitamente) */
+
 .md-sidebar--primary .md-nav__list > .md-nav__item:has(.md-nav__link[href]):not(:has(.md-nav__sub-nav)) {
   display: none !important;
 }
+
+/* Riautomatismo: se Activities è stata nascosta per errore,
+   forza la sua visualizzazione (controlla l'href che genera MkDocs).
+   Aggiungi tutte le varianti di href che vedi nel DOM. */
+.md-sidebar--primary .md-nav__item:has(.md-nav__link[href$="activities/"]),
+.md-sidebar--primary .md-nav__item:has(.md-nav__link[href$="activities"]) {
+  display: block !important;
+}
+
 
 /* =========================
    UNA EUROPA logo in header
