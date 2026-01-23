@@ -34,7 +34,7 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - javascripts/hide-single-nav.js
+  - javascript/hide-single-nav.js
 
 plugins: []
 
