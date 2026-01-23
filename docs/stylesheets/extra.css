@@ -85,6 +85,20 @@
   display: none !important;
 }
 
+/* =========================================================
+   Sidebar left navigation:
+   - Hide top-level items without sub-pages
+   - EXCEPT on Activities page
+   ========================================================= */
+
+/* On ALL pages EXCEPT Activities:
+   hide top-level nav items that have no sub-navigation */
+body:not([data-md-page^="activities"])
+  .md-sidebar--primary
+  .md-nav__list
+  > .md-nav__item:not(:has(.md-nav__sub-nav)) {
+  display: none !important;
+}
 
 /* =========================
    UNA EUROPA logo in header
