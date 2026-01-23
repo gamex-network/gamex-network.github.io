@@ -1,0 +1,123 @@
+/* =========================
+   GAMEX – Petrol theme
+   ========================= */
+
+/* Header background */
+.md-header {
+  background-color: #114b5f !important;
+}
+
+/* Top navigation links */
+.md-header__inner .md-nav__link {
+  color: #ffffff !important;
+}
+
+/* Hover on top navigation */
+.md-header__inner .md-nav__link:hover,
+.md-header__inner .md-nav__link--active {
+  background-color: #0e3f50 !important;
+  color: #ffffff !important;
+}
+
+/* Tabs hover (if tabs are enabled) */
+.md-tabs {
+  background-color: #114b5f !important;
+}
+
+.md-tabs__link {
+  color: #ffffff !important;
+}
+
+.md-tabs__link:hover,
+.md-tabs__link--active {
+  background-color: #0e3f50 !important;
+}
+
+/* Optional: links inside content */
+.md-content a {
+  color: #114b5f;
+}
+
+.md-content a:hover {
+  color: #0e3f50;
+}
+
+/* Body text */
+.md-content {
+  font-size: 1.08rem;
+}
+
+/* Section headings */
+.md-content h1 {
+  font-size: 2.2rem;
+}
+
+.md-content h2 {
+  font-size: 1.7rem;
+}
+
+.md-content h3 {
+  font-size: 1.35rem;
+}
+
+/* Hide the search UI (icon + bar) */
+.md-search {
+  display: none !important;
+}
+
+/* Increase spacing between main content and right-hand ToC */
+.md-content {
+  margin-right: 3rem;
+}
+
+/* Push the table of contents further to the right */
+.md-sidebar--secondary {
+  padding-left: 2rem;
+}
+
+/* Justify main text content */
+.md-content p {
+  text-align: justify;
+}
+
+/* Keep right sidebar but hide the Table of Contents content */
+.md-sidebar--secondary .md-nav--secondary {
+  display: none !important;
+}
+
+/* =========================
+   UNA EUROPA logo in header
+   larger + shifted left
+   ========================= */
+
+@media (min-width: 60em) {
+
+  /* Increase right padding to avoid overlap with nav */
+  .md-header__inner {
+    padding-right: 260px;
+  }
+
+  /* Inject the logo on the right side of the header */
+  .md-header__inner::after {
+    content: "";
+    display: block;
+
+    position: absolute;
+    top: 60%;
+    right: 300px;              /* ~5 cm to the left */
+    transform: translateY(-30%);
+
+    width: 243px;              /* doubled size */
+    height: 97px;              /* doubled size */
+
+    background: url("../assets/UnaEuropaLogo.png") no-repeat center;
+    background-size: contain;
+
+    opacity: 0.95;
+    pointer-events: none;
+  }
+}
+
+
+
+
