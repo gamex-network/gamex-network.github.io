@@ -33,9 +33,6 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
-extra_javascript:
-  - javascript/hide-single-nav.js
-
 plugins: []
 
 copyright: >
