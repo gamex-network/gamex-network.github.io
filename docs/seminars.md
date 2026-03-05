@@ -1,6 +1,6 @@
 # Online Seminar Series
 
-GAMEX hosts an online seminar series throughout 2026 to stimulate scientific exchange within the network and beyond, in partnership with the Glasgow–Edinburgh Extremes Network ([GLE²N](https://glen-scotland.github.io/glen/)) and the Community of Italian Researchers Connecting on Extreme Value Statistics ([CIRCE](https://circe-site.github.io/site/)).
+GAMEX hosts an online seminar series throughout 2026 to stimulate scientific exchange within the network and beyond, with the support of the Glasgow–Edinburgh Extremes Network ([GLE²N](https://glen-scotland.github.io/glen/)) and the Community of Italian Researchers Connecting on Extreme Value Statistics ([CIRCE](https://circe-site.github.io/site/)).
 
 ## Program
 
