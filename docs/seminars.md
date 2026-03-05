@@ -33,7 +33,7 @@ There are three main contributions. First, through extensive simulations, we sho
 
 We illustrate the methodology by analyzing the monthly maximum Fire Weather Index (FWI) over eastern Australia (2014–2024), conditioned on the El Niño/Southern Oscillation (ENSO) index.
 
-**Connection details:**  
+**Access link:** 
 [Join the seminar on Zoom](https://uofglasgow.zoom.us/j/87240389315?pwd=WPO6tY8MKSwFojlUn6iUHTbEXx58DY.1)
 
 ---
