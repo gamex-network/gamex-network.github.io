@@ -5,7 +5,8 @@ GAMEX hosts an online seminar series throughout 2026 to stimulate scientific exc
 ## Program
 
 ### April 10, 2026  
-**Time:** 9:30 ET (13:30 UTC / 14:30 BST / 15:30 CEST)  
+**Time:** 9:30 ET (13:30 UTC / 14:30 BST / 15:30 CEST) 
+
 **Speaker:** Frédéric Godin (Concordia University)  
 
 **Title:**  
@@ -21,6 +22,7 @@ We tackle the problem of mitigating catastrophic risk (which is risk with very l
 
 ### May 15, 2026  
 **Time:** 9:00 CT (14:00 UTC / 15:00 BST / 16:00 CEST)
+
 **Speaker:** Likun Zhang (University of Missouri)  
 
 **Title:**  
