@@ -18,30 +18,56 @@ A central objective of the workshop is to foster dialogue between the **Statisti
 
 ---
 
-## Preliminary Schedule
+## Registration
 
-**Day 1 — Thursday, 11 June 2026**  
-13:00 – 17:30  
+Registration is free but mandatory due to limited capacity.
 
-**Day 2 — Friday, 12 June 2026**  
-09:30 – 17:30  
-
-A detailed programme will be announced in due course.
+To check availability and register for the workshop, please contact Luca Trapin at:  
+[luca.trapin@unibo.it](mailto:luca.trapin@unibo.it)
 
 ---
 
-## Confirmed Speakers
+## Preliminary Programme
 
-- **Danilo Abrignani** — Leithà – Unipol Group
-- **Matteo Angelinelli** — CINECA
-- **Gloria Buritica** — AgroParisTech    
-- **Sebastian Engelke** — University of Geneva
-- **Amir Khorrami Chokami** - University of Cagliari
-- **Olivier Lopez** — CREST
-- **Jordan Richards** — University of Edinburgh 
-- **Antonello Squintu** — CMCC 
-- **Maud Thomas** — Université Lyon 1  
-- **Antonio Tirri** — Leithà – Unipol Group  
+The preliminary programme is reported below. Talk titles and further details will be announced soon.
+
+### Day 1 — Thursday, 11 June 2026
+
+| Time | Speaker / Details | Affiliation |
+|---|---|---|
+| 13:00 – 13:30 | Registration |  |
+| 13:30 – 14:00 | Opening — Introduction to the Workshop |  |
+| 14:00 – 14:30 | Miguel de Carvalho | University of Edinburgh |
+| 14:30 – 15:00 | Giorgia Ramponi | University of Zurich |
+| 15:00 – 15:30 | Luis Alberto Gutiérrez Inostroza | Pontificia Universidad Católica de Chile |
+| 15:30 – 16:00 | **Coffee break** |  |
+| 16:00 – 16:30 | Sebastian Engelke | University of Geneva |
+| 16:30 – 17:00 | Maud Thomas | Université Lyon 1 |
+| 17:00 – 17:30 | Alison Peard | University of Oxford |
+
+---
+
+### Day 2 — Friday, 12 June 2026
+
+| Time | Speaker / Details | Affiliation |
+|---|---|---|
+| 09:30 – 10:00 | Antonio Tirri & Melchiorre Danilo Abrignani | Leithà – Unipol Group |
+| 10:00 – 10:30 | Antonello Squintu | CMCC |
+| 10:30 – 11:00 | Matteo Angelinelli | HPC CINECA |
+| 11:00 – 11:30 | **Coffee break — Group photo** |  |
+| 11:30 – 12:00 | Olivier Lopez | CREST – ENSAE IP Paris |
+| 12:00 – 12:30 | TBA |  |
+| 12:30 – 13:00 | Ashley Turner | Imperial College London |
+| 13:00 – 14:00 | **Lunch break** |  |
+| 14:00 – 14:30 | Amir Khorrami Chokami | University of Cagliari |
+| 14:30 – 15:00 | Nathan Huet | Ca' Foscari University of Venice |
+| 15:00 – 15:30 | Ivo Bonfanti | University of Bologna |
+| 15:30 – 16:00 | **Coffee break** |  |
+| 16:00 – 16:30 | Jordan Richards | University of Edinburgh |
+| 16:30 – 17:00 | Daniela Castro-Camilo | University of Glasgow |
+| 17:00 – 17:30 | Johnny Lee | University of Edinburgh |
+
+Programme details and talk titles will be updated in due course.
  
 ---
 
