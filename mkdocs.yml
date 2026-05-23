@@ -5,6 +5,7 @@ site_url: https://gamex-network.github.io/
 theme:
   name: material
   language: en
+  favicon: assets/favicon.png
   features:
     - navigation.tabs
     - navigation.top

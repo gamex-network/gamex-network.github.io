@@ -121,8 +121,8 @@
 }
 
 .school-logo--gamex {
-  width: min(125px, 24vw);
-  max-height: 125px;
+  width: min(95px, 18vw);
+  max-height: 95px;
 }
 
 .md-content .md-button--primary {
@@ -237,7 +237,7 @@
   }
 
   .school-logo--gamex {
-    width: min(105px, 40vw);
+    width: min(84px, 34vw);
   }
 
   .school-date {
