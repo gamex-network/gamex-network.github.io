@@ -1,10 +1,9 @@
-<div class="school-logo-strip school-logo-strip--top">
-  <img src="../assets/logoUE.png" alt="The University of Edinburgh">
-  <img src="../assets/GAMEX-project.jpg" alt="GAMEX">
-  <img src="../assets/UnaEuropaLogo.png" alt="Una Europa">
-</div>
-
 # Edinburgh Summer School on Generative AI for Extremes
+
+<div class="school-logo-strip school-logo-strip--top">
+  <img class="school-logo--edinburgh" src="../assets/logoUE.png" alt="The University of Edinburgh">
+  <img class="school-logo--gamex" src="../assets/GAMEX-project.jpg" alt="GAMEX">
+</div>
 
 **8–11 September 2026**<br>
 **University of Edinburgh**
@@ -15,16 +14,16 @@ Registration is now open for the summer school. All registrations will be accept
 
 [Register here](https://forms.cloud.microsoft/e/RKSupx7MuA){ .md-button .md-button--primary }
 
-## Programme at a Glance
+## Provisional Programme†
 
-| Date | Theme | Provisional Agenda |
+| Date | Theme | Agenda |
 | --- | --- | --- |
 | **Tuesday 8 September** | Foundations and Orientation | Welcome and overview; lectures; practical session; group work and office hours |
 | **Wednesday 9 September** | Neural Generative Models | Lectures; practical session; group work and office hours |
 | **Thursday 10 September** | Generative Models for Extremes | Lectures; practical session; group photo; group work and office hours |
 | **Friday 11 September** | Frontier Topics and Synthesis | Lectures; panel discussion; concluding remarks |
 
-Further programme details will be announced in due course.
+† Further details will be added soon.
 
 ## Topics
 
@@ -40,10 +39,12 @@ Johnny Lee (Edinburgh), Lambert De Monde (Edinburgh), Jordan Richards (Edinburgh
 ## Partners
 
 <div class="school-logo-strip school-logo-strip--partners">
-  <img src="../assets/logoUE.png" alt="The University of Edinburgh">
-  <img src="../assets/logoUCD.png" alt="University College Dublin">
-  <img src="../assets/logoPUC.png" alt="Pontificia Universidad Católica de Chile">
-  <img src="../assets/logoUNIBO.png" alt="University of Bologna">
-  <img src="../assets/logoUZH.png" alt="University of Zurich">
-  <img src="../assets/UnaEuropaLogo.png" alt="Una Europa">
+  <img class="school-partner-logo school-partner-logo--wide" src="../assets/logoUE.png" alt="The University of Edinburgh">
+  <img class="school-partner-logo school-partner-logo--wide" src="../assets/generative-ai-lab.svg" alt="Generative AI Laboratory">
+  <img class="school-partner-logo school-partner-logo--wide" src="../assets/cii.jpeg" alt="Centre for Investing Innovation">
+  <img class="school-partner-logo school-partner-logo--mark" src="../assets/glen.png" alt="Glasgow-Edinburgh Extremes Network">
+  <img class="school-partner-logo school-partner-logo--wide" src="../assets/logoUCD.png" alt="University College Dublin">
+  <img class="school-partner-logo school-partner-logo--wide" src="../assets/logoPUC.png" alt="Pontificia Universidad Catolica de Chile">
+  <img class="school-partner-logo school-partner-logo--mark" src="../assets/logoUNIBO.png" alt="University of Bologna">
+  <img class="school-partner-logo school-partner-logo--wide" src="../assets/logoUZH.png" alt="University of Zurich">
 </div>

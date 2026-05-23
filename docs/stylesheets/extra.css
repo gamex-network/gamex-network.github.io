@@ -85,46 +85,13 @@
   display: none !important;
 }
 
-/* =========================
-   UNA EUROPA logo in header
-   larger + shifted left
-   ========================= */
-
-@media (min-width: 60em) {
-
-  /* Increase right padding to avoid overlap with nav */
-  .md-header__inner {
-    padding-right: 260px;
-  }
-
-  /* Inject the logo on the right side of the header */
-  .md-header__inner::after {
-    content: "";
-    display: block;
-
-    position: absolute;
-    top: 60%;
-    right: 300px;              /* ~5 cm to the left */
-    transform: translateY(-30%);
-
-    width: 243px;              /* doubled size */
-    height: 97px;              /* doubled size */
-
-    background: url("../assets/UnaEuropaLogo.png") no-repeat center;
-    background-size: contain;
-
-    opacity: 0.95;
-    pointer-events: none;
-  }
-}
-
 .school-logo-strip {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 1.8rem;
+  gap: 1.25rem;
   flex-wrap: wrap;
-  margin: 0 0 1.4rem;
+  margin: 1rem 0 1.4rem;
 }
 
 .school-logo-strip img {
@@ -133,32 +100,52 @@
   object-fit: contain;
 }
 
-.school-logo-strip--top img {
-  max-height: 92px;
+.school-logo-strip--top {
+  gap: 1.5rem;
 }
 
-.school-logo-strip--top img[alt="GAMEX"] {
-  max-height: 130px;
-}
-
-.school-logo-strip--top img[alt="Una Europa"] {
+.school-logo--edinburgh {
+  width: min(320px, 48vw);
   max-height: 86px;
 }
 
+.school-logo--gamex {
+  width: min(150px, 28vw);
+  max-height: 150px;
+}
+
 .school-logo-strip--partners {
-  gap: 1.4rem;
-  margin-top: 0.8rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1.2rem 1.4rem;
+  margin-top: 1rem;
 }
 
-.school-logo-strip--partners img {
-  max-height: 64px;
-  max-width: 180px;
+.school-partner-logo {
+  justify-self: center;
+  align-self: center;
+  width: auto;
+  object-fit: contain;
 }
 
-.school-logo-strip--partners img[alt="Una Europa"],
-.school-logo-strip--partners img[alt="University of Bologna"] {
-  max-height: 74px;
-  max-width: 110px;
+.school-partner-logo--wide {
+  max-width: 170px;
+  max-height: 54px;
+}
+
+.school-partner-logo--mark {
+  max-width: 82px;
+  max-height: 82px;
+}
+
+.school-partner-logo[alt="Generative AI Laboratory"] {
+  max-width: 210px;
+  max-height: 56px;
+}
+
+.school-partner-logo[alt="Centre for Investing Innovation"] {
+  max-width: 220px;
+  max-height: 44px;
 }
 
 @media (max-width: 40em) {
@@ -166,14 +153,25 @@
     gap: 1rem;
   }
 
-  .school-logo-strip--top img,
-  .school-logo-strip--partners img {
-    max-height: 56px;
+  .school-logo--edinburgh {
+    width: min(260px, 80vw);
   }
 
-  .school-logo-strip--top img[alt="GAMEX"] {
-    max-height: 86px;
+  .school-logo--gamex {
+    width: min(120px, 44vw);
+  }
+
+  .school-logo-strip--partners {
+    grid-template-columns: repeat(2, minmax(120px, 1fr));
+  }
+
+  .school-partner-logo--wide {
+    max-width: 140px;
+    max-height: 46px;
+  }
+
+  .school-partner-logo--mark {
+    max-width: 68px;
+    max-height: 68px;
   }
 }
-
-
