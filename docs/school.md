@@ -9,7 +9,7 @@
 
 An intensive training event for PhD students and early-career researchers working at the interface of generative AI and extreme value theory.
 
-Registration is now open. Please note that lunch is not included.
+Registration is now open.
 
 [Register here](https://forms.cloud.microsoft/e/RKSupx7MuA){ .md-button .md-button--primary }
 
@@ -27,7 +27,7 @@ Registration is now open. Please note that lunch is not included.
 ## Chair
 
 <div class="school-people">
-Miguel de Carvalho<br>
+<strong>Miguel de Carvalho</strong><br>
 Professor & Chair of Statistics and Data Science<br>
 University of Edinburgh
 </div>
