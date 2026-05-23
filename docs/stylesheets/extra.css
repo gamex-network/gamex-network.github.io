@@ -118,6 +118,62 @@
   }
 }
 
+.school-logo-strip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.8rem;
+  flex-wrap: wrap;
+  margin: 0 0 1.4rem;
+}
 
+.school-logo-strip img {
+  display: block;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.school-logo-strip--top img {
+  max-height: 92px;
+}
+
+.school-logo-strip--top img[alt="GAMEX"] {
+  max-height: 130px;
+}
+
+.school-logo-strip--top img[alt="Una Europa"] {
+  max-height: 86px;
+}
+
+.school-logo-strip--partners {
+  gap: 1.4rem;
+  margin-top: 0.8rem;
+}
+
+.school-logo-strip--partners img {
+  max-height: 64px;
+  max-width: 180px;
+}
+
+.school-logo-strip--partners img[alt="Una Europa"],
+.school-logo-strip--partners img[alt="University of Bologna"] {
+  max-height: 74px;
+  max-width: 110px;
+}
+
+@media (max-width: 40em) {
+  .school-logo-strip {
+    gap: 1rem;
+  }
+
+  .school-logo-strip--top img,
+  .school-logo-strip--partners img {
+    max-height: 56px;
+  }
+
+  .school-logo-strip--top img[alt="GAMEX"] {
+    max-height: 86px;
+  }
+}
 
 
