@@ -7,13 +7,13 @@
 
 <div class="school-date">8–11 September 2026</div>
 
-An intensive training event for PhD students and early-career researchers working at the interface of generative AI and extreme value theory.
+Following the success of GAME 2025 in Edinburgh, the first workshop on generative AI modelling for extreme events, this summer school brings PhD students and early-career researchers to the interface of generative AI and extreme value theory.
 
 Registration is now open.
 
 [Register here](https://forms.cloud.microsoft/e/RKSupx7MuA){ .md-button .md-button--primary }
 
-## Provisional Programme<sup>†</sup>
+## Provisional Programme
 
 | Date | Theme | Agenda |
 | --- | --- | --- |
@@ -22,7 +22,7 @@ Registration is now open.
 | **Thursday 10 September** | Generative Models for Extremes | Lectures; practical session; group photo; group work and office hours |
 | **Friday 11 September** | Frontier Topics & Synthesis | Lectures; panel discussion; concluding remarks |
 
-<sup>†</sup> Further details to be added soon.
+<div class="school-programme-note"><sup>†</sup> Further details to be added soon.</div>
 
 ## Chair
 
@@ -44,7 +44,7 @@ The summer school will take place at **JCMB (James Clerk Maxwell Building)**, Un
 
 <figure class="school-venue-photo">
   <img src="../assets/jcmb.jpg" alt="James Clerk Maxwell Building">
-  <figcaption>Photo: Kim Traynor, CC BY-SA 2.0.</figcaption>
+  <figcaption>JCMB, University of Edinburgh.</figcaption>
 </figure>
 
 ## Getting There
