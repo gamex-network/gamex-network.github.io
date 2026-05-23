@@ -12,4 +12,6 @@ An intensive training event aimed at PhD students and early-career researchers.
 - EVT foundations for high-dimensional data  
 - Hands-on tutorials and case studies  
 
-An open call for participants will be published in 2026.
+Registration is now open for the summer school.
+
+[Register here](https://forms.cloud.microsoft/e/RKSupx7MuA){ .md-button .md-button--primary }
