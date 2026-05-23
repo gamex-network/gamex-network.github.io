@@ -123,8 +123,8 @@
 }
 
 .workshop-logo--bologna {
-  width: min(190px, 34vw);
-  max-height: 82px;
+  width: min(215px, 38vw);
+  max-height: 92px;
 }
 
 .school-logo--gamex {
@@ -291,7 +291,7 @@
   }
 
   .workshop-logo--bologna {
-    width: min(170px, 58vw);
+    width: min(185px, 62vw);
   }
 
   .school-logo--gamex {
