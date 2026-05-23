@@ -7,7 +7,7 @@
 
 <div class="school-date">8–11 September 2026</div>
 
-Following the success of GAME 2025 in Edinburgh, the first workshop on generative AI modelling for extreme events, this summer school brings PhD students and early-career researchers to the interface of generative AI and extreme value theory.
+Building on the success of [GAME 2025](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events-2025) in Edinburgh, the first worldwide workshop on generative AI modelling for extreme events, this summer school is led by GLE<sup>2</sup>N (Glasgow–Edinburgh Extremes Network) and brings PhD students and early-career researchers to the interface of generative AI and extreme value theory.
 
 **Registration is now open; closing on 31 July 2026.**
 
@@ -35,7 +35,7 @@ Elected Fellow of Generative AI Laboratory
 ## Organisers
 
 <div class="school-people school-people--organisers">
-Johnny Lee (Edinburgh), Lambert De Monde (Edinburgh), Jordan Richards (Edinburgh), Daniela Castro-Camilo (Glasgow), Mengran Li (Glasgow), and Luca Trapin (Bologna).
+Johnny Lee (Edinburgh), Lambert De Monde (Edinburgh), Jordan Richards (Edinburgh), Daniela Castro-Camilo (Glasgow), Mengran Li (Glasgow), Teng Wei Yeo (Glasgow), and Luca Trapin (Bologna).
 </div>
 
 ## Venue
