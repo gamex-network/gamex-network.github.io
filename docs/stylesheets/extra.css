@@ -162,7 +162,8 @@
 }
 
 .md-content h2#chair,
-.md-content h2#organisers {
+.md-content h2#organisers,
+.md-content h2#materials {
   font-size: 1.18rem;
   margin-top: 0.9rem;
 }

@@ -38,6 +38,10 @@ Elected Fellow of Generative AI Laboratory
 Johnny Lee (Edinburgh), Lambert De Monde (Edinburgh), Jordan Richards (Edinburgh), Daniela Castro-Camilo (Glasgow), Mengran Li (Glasgow), Teng Wei Yeo (Glasgow), and Luca Trapin (Bologna).
 </div>
 
+## Materials
+
+Materials will be made available by the instructors in due time. Other resources include selected parts of the [Handbook of Statistics of Extremes](https://extremestats.github.io/Handbook/) and parts of the recent special issue on [Bridging Heavy Tails and AI](https://webhomes.maths.ed.ac.uk/~mdecarv/papers/editorial.pdf).
+
 ## Venue
 
 The summer school will take place at **JCMB (James Clerk Maxwell Building)**, University of Edinburgh, Peter Guthrie Tait Road, King’s Buildings, Edinburgh EH9 3FD.
