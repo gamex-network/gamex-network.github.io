@@ -122,6 +122,11 @@
   max-height: 98px;
 }
 
+.workshop-logo--bologna {
+  width: min(270px, 44vw);
+  max-height: 118px;
+}
+
 .school-logo--gamex {
   width: min(95px, 18vw);
   max-height: 95px;
@@ -283,6 +288,10 @@
 
   .school-logo--edinburgh {
     width: min(300px, 84vw);
+  }
+
+  .workshop-logo--bologna {
+    width: min(230px, 76vw);
   }
 
   .school-logo--gamex {

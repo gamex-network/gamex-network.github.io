@@ -1,8 +1,11 @@
-# Scientific Workshop  
-## GAME 2026—Generative AI Modelling for Extreme Events
+# GAME 2026—Generative AI Modelling for Extreme Events
 
-**Dates:** 11–12 June 2026  
-**Location:** Bologna, Italy  
+<div class="school-logo-strip school-logo-strip--top">
+  <img class="workshop-logo--bologna" src="../assets/university-of-bologna-logo.png" alt="University of Bologna">
+  <img class="school-logo--gamex" src="../assets/GAMEX-project.jpg" alt="GAMEX">
+</div>
+
+<div class="school-date">11–12 June 2026<br>Bologna, Italy</div>
 
 ---
 
