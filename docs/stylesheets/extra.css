@@ -193,8 +193,8 @@
 
 .school-logo-strip--partner-groups {
   display: grid;
-  grid-template-columns: 1.25fr 1.15fr 1fr 1.2fr 0.8fr;
-  gap: 0.45rem 0.8rem;
+  grid-template-columns: 1.1fr 1fr 0.9fr 1.05fr 1.05fr 0.9fr;
+  gap: 0.35rem 0.65rem;
   margin-top: 0.75rem;
 }
 
@@ -206,13 +206,13 @@
 }
 
 .school-partner-logo--wide {
-  max-width: 150px;
-  max-height: 44px;
+  max-width: 130px;
+  max-height: 38px;
 }
 
 .school-partner-logo--mark {
-  max-width: 78px;
-  max-height: 78px;
+  max-width: 84px;
+  max-height: 84px;
 }
 
 .school-partner-logo--university-strip {
@@ -222,23 +222,28 @@
 }
 
 .school-partner-logo[alt="Generative AI Laboratory"] {
-  max-width: 165px;
-  max-height: 46px;
+  max-width: 145px;
+  max-height: 40px;
 }
 
 .school-partner-logo[alt="Edinburgh Centre for Financial Innovations"] {
-  max-width: 155px;
-  max-height: 42px;
-}
-
-.school-partner-logo[alt="Centre for Investing Innovation"] {
-  max-width: 142px;
+  max-width: 135px;
   max-height: 36px;
 }
 
+.school-partner-logo[alt="Centre for Investing Innovation"] {
+  max-width: 125px;
+  max-height: 32px;
+}
+
 .school-partner-logo[alt="Prob-AI"] {
-  max-width: 155px;
-  max-height: 40px;
+  max-width: 132px;
+  max-height: 34px;
+}
+
+.school-partner-logo[alt="Leverhulme Trust"] {
+  max-width: 130px;
+  max-height: 34px;
 }
 
 .school-venue-photo {

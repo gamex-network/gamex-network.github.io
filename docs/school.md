@@ -72,5 +72,6 @@ From **Edinburgh Waverley** train station, JCMB is around 3 miles south at the K
   <img class="school-partner-logo school-partner-logo--wide" src="../assets/ecfi.jpeg" alt="Edinburgh Centre for Financial Innovations">
   <img class="school-partner-logo school-partner-logo--wide" src="../assets/cii.jpeg" alt="Centre for Investing Innovation">
   <img class="school-partner-logo school-partner-logo--wide" src="../assets/probai-logo.png" alt="Prob-AI">
+  <img class="school-partner-logo school-partner-logo--wide" src="../assets/leverhulme-trust.png" alt="Leverhulme Trust">
   <img class="school-partner-logo school-partner-logo--mark" src="../assets/glen.png" alt="Glasgow-Edinburgh Extremes Network">
 </div>
