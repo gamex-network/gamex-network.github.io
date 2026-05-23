@@ -5,7 +5,11 @@
   <img class="school-logo--gamex" src="../assets/GAMEX-project.jpg" alt="GAMEX">
 </div>
 
-<div class="school-date">8–11 September 2026</div>
+<div class="school-date">8–11 September 2026<br>Edinburgh, UK</div>
+
+---
+
+## Overview
 
 Building on the success of [GAME 2025](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events-2025) in Edinburgh, the first worldwide workshop on generative AI modelling for extreme events, this summer school is led by GLE<sup>2</sup>N (Glasgow–Edinburgh Extremes Network) and brings PhD students and early-career researchers to the interface of generative AI and extreme value theory.
 
