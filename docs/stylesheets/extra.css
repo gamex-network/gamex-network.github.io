@@ -105,8 +105,8 @@
 }
 
 .school-logo--edinburgh {
-  width: min(320px, 48vw);
-  max-height: 86px;
+  width: min(410px, 56vw);
+  max-height: 98px;
 }
 
 .school-logo--gamex {
@@ -116,9 +116,13 @@
 
 .school-logo-strip--partners {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 1.2rem 1.4rem;
   margin-top: 1rem;
+}
+
+.school-logo-strip--partner-groups {
+  margin-top: 1.4rem;
 }
 
 .school-partner-logo {
@@ -138,7 +142,13 @@
   max-height: 82px;
 }
 
-.school-partner-logo[alt="Generative AI Laboratory"] {
+.school-partner-logo--university-strip {
+  grid-column: 1 / -1;
+  width: min(100%, 900px);
+  max-height: 86px;
+}
+
+.school-partner-logo[alt="Prob-AI"] {
   max-width: 210px;
   max-height: 56px;
 }
@@ -154,7 +164,7 @@
   }
 
   .school-logo--edinburgh {
-    width: min(260px, 80vw);
+    width: min(300px, 84vw);
   }
 
   .school-logo--gamex {
@@ -162,7 +172,7 @@
   }
 
   .school-logo-strip--partners {
-    grid-template-columns: repeat(2, minmax(120px, 1fr));
+    grid-template-columns: 1fr;
   }
 
   .school-partner-logo--wide {
@@ -173,5 +183,9 @@
   .school-partner-logo--mark {
     max-width: 68px;
     max-height: 68px;
+  }
+
+  .school-partner-logo--university-strip {
+    max-height: 72px;
   }
 }
