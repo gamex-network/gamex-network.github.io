@@ -5,7 +5,7 @@
   <img class="school-logo--gamex" src="../assets/GAMEX-project.jpg" alt="GAMEX">
 </div>
 
-**8–11 September 2026**
+<div class="school-date">8–11 September 2026</div>
 
 An intensive training event for PhD students and early-career researchers working at the interface of generative AI and extreme value theory.
 
@@ -20,20 +20,23 @@ Registration is now open. Please note that lunch is not included.
 | **Tuesday 8 September** | Foundations and Orientation | Welcome and overview; lectures; practical session; group work and office hours |
 | **Wednesday 9 September** | Neural Generative Models | Lectures; practical session; group work and office hours |
 | **Thursday 10 September** | Generative Models for Extremes | Lectures; practical session; group photo; group work and office hours |
-| **Friday 11 September** | Frontier Topics and Synthesis | Lectures; panel discussion; concluding remarks |
+| **Friday 11 September** | Frontier Topics & Synthesis | Lectures; panel discussion; concluding remarks |
 
 <sup>†</sup> Further details to be added soon.
 
-## Topics
+## Chair
 
-- Generative models for extremes
-- Extreme value theory foundations for high-dimensional data
-- Hands-on tutorials and case studies
-- Frontier topics in generative AI for rare and high-impact events
+<div class="school-people">
+Miguel de Carvalho<br>
+Professor & Chair of Statistics and Data Science<br>
+University of Edinburgh
+</div>
 
 ## Organisers
 
+<div class="school-people school-people--organisers">
 Johnny Lee (Edinburgh), Lambert De Monde (Edinburgh), Jordan Richards (Edinburgh), Daniela Castro-Camilo (Glasgow), Mengran Li (Glasgow), and Luca Trapin (Bologna).
+</div>
 
 ## Venue
 
@@ -41,7 +44,7 @@ The summer school will take place at **JCMB (James Clerk Maxwell Building)**, Un
 
 <figure class="school-venue-photo">
   <img src="../assets/jcmb.jpg" alt="James Clerk Maxwell Building">
-  <figcaption>James Clerk Maxwell Building, University of Edinburgh. Photo: Kim Traynor, CC BY-SA 2.0.</figcaption>
+  <figcaption>Photo: Kim Traynor, CC BY-SA 2.0.</figcaption>
 </figure>
 
 ## Getting There
@@ -56,17 +59,13 @@ From **Edinburgh Waverley** train station, JCMB is around 3 miles south at the K
 
 ## Partners
 
-### University Partners
-
 <div class="school-logo-strip school-logo-strip--partners">
   <img class="school-partner-logo school-partner-logo--university-strip" src="../assets/partner-universities.jpg" alt="Partner universities">
 </div>
 
-### Other Partners
-
 <div class="school-logo-strip school-logo-strip--partners school-logo-strip--partner-groups">
-  <img class="school-partner-logo school-partner-logo--wide" src="../assets/generative-ai-lab.svg" alt="Prob-AI">
+  <img class="school-partner-logo school-partner-logo--wide" src="../assets/gail.png" alt="Generative AI Laboratory">
+  <img class="school-partner-logo school-partner-logo--wide" src="../assets/ecfi.jpeg" alt="Edinburgh Centre for Financial Innovations">
   <img class="school-partner-logo school-partner-logo--wide" src="../assets/cii.jpeg" alt="Centre for Investing Innovation">
   <img class="school-partner-logo school-partner-logo--mark" src="../assets/glen.png" alt="Glasgow-Edinburgh Extremes Network">
-  <img class="school-partner-logo school-partner-logo--mark" src="../assets/UnaEuropaLogo.png" alt="Una Europa">
 </div>

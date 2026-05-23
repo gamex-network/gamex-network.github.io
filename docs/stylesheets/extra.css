@@ -110,25 +110,53 @@
   gap: 1.5rem;
 }
 
+.school-date {
+  font-weight: 700;
+  text-align: right;
+}
+
 .school-logo--edinburgh {
   width: min(410px, 56vw);
   max-height: 98px;
 }
 
 .school-logo--gamex {
-  width: min(150px, 28vw);
-  max-height: 150px;
+  width: min(125px, 24vw);
+  max-height: 125px;
+}
+
+.md-content .md-button--primary {
+  background-color: #114b5f;
+  border-color: #114b5f;
+  color: #ffffff;
+}
+
+.md-content .md-button--primary:hover {
+  background-color: #0e3f50;
+  border-color: #0e3f50;
+  color: #ffffff;
+}
+
+.school-people {
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.school-people--organisers {
+  font-size: 0.88rem;
 }
 
 .school-logo-strip--partners {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 1.2rem 1.4rem;
+  gap: 1rem 1.4rem;
   margin-top: 1rem;
 }
 
 .school-logo-strip--partner-groups {
-  margin-top: 1.4rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 1.2rem;
 }
 
 .school-partner-logo {
@@ -154,9 +182,14 @@
   max-height: 86px;
 }
 
-.school-partner-logo[alt="Prob-AI"] {
-  max-width: 210px;
-  max-height: 56px;
+.school-partner-logo[alt="Generative AI Laboratory"] {
+  max-width: 280px;
+  max-height: 76px;
+}
+
+.school-partner-logo[alt="Edinburgh Centre for Financial Innovations"] {
+  max-width: 250px;
+  max-height: 54px;
 }
 
 .school-partner-logo[alt="Centre for Investing Innovation"] {
@@ -177,7 +210,8 @@
 
 .school-venue-photo figcaption {
   color: #666;
-  font-size: 0.82rem;
+  font-size: 0.72rem;
+  font-style: normal;
   margin-top: 0.35rem;
   text-align: left;
 }
@@ -203,10 +237,19 @@
   }
 
   .school-logo--gamex {
-    width: min(120px, 44vw);
+    width: min(105px, 40vw);
+  }
+
+  .school-date {
+    text-align: left;
   }
 
   .school-logo-strip--partners {
+    grid-template-columns: 1fr;
+  }
+
+  .school-logo-strip--partner-groups {
+    display: grid;
     grid-template-columns: 1fr;
   }
 
