@@ -2,10 +2,10 @@
 
 For general inquiries, seminars, mobility opportunities, or partnership proposals, please contact:
 
-- **Luca Trapin** — University of Bologna  
+- **Luca Trapin**—University of Bologna  
   Workshop, Mobility & Seminar Series
 
-- **Miguel de Carvalho** — University of Edinburgh  
+- **Miguel de Carvalho**—University of Edinburgh  
   Summer School & Seminar Series
 
 ---

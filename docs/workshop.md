@@ -1,5 +1,5 @@
 # Scientific Workshop  
-## GAME 2026 — Generative AI Modelling for Extreme Events
+## GAME 2026—Generative AI Modelling for Extreme Events
 
 **Dates:** 11–12 June 2026  
 **Location:** Bologna, Italy  
@@ -31,12 +31,12 @@ To check availability and register for the workshop, please contact Luca Trapin 
 
 The preliminary programme is reported below. Talk titles and further details will be announced soon.
 
-### Day 1 — Thursday, 11 June 2026
+### Day 1—Thursday, 11 June 2026
 
 | Time | Speaker / Details | Affiliation |
 |---|---|---|
 | 13:00 – 13:30 | Registration |  |
-| 13:30 – 14:00 | Opening — Introduction to the Workshop |  |
+| 13:30 – 14:00 | Opening—Introduction to the Workshop |  |
 | 14:00 – 14:30 | Miguel de Carvalho | University of Edinburgh |
 | 14:30 – 15:00 | Giorgia Ramponi | University of Zurich |
 | 15:00 – 15:30 | Luis Alberto Gutiérrez Inostroza | Pontificia Universidad Católica de Chile |
@@ -47,14 +47,14 @@ The preliminary programme is reported below. Talk titles and further details wil
 
 ---
 
-### Day 2 — Friday, 12 June 2026
+### Day 2—Friday, 12 June 2026
 
 | Time | Speaker / Details | Affiliation |
 |---|---|---|
 | 09:30 – 10:00 | Antonio Tirri & Melchiorre Danilo Abrignani | Leithà – Unipol Group |
 | 10:00 – 10:30 | Antonello Squintu | CMCC |
 | 10:30 – 11:00 | Matteo Angelinelli | HPC CINECA |
-| 11:00 – 11:30 | **Coffee break — Group photo** |  |
+| 11:00 – 11:30 | **Coffee break—Group photo** |  |
 | 11:30 – 12:00 | Olivier Lopez | CREST – ENSAE IP Paris |
 | 12:00 – 12:30 | TBA |  |
 | 12:30 – 13:00 | Ashley Turner | Imperial College London |
@@ -74,13 +74,13 @@ Programme details and talk titles will be updated in due course.
 ## Venue
 
 **Area Botte B4**  
-DAMA — Tecnopolo Data Manifattura Emilia-Romagna  
+DAMA—Tecnopolo Data Manifattura Emilia-Romagna  
 Via Stalingrado 84/3  
 40128 Bologna (BO), Italy  
 
 <figure class="school-venue-photo">
-  <img src="../assets/dama.jpg" alt="DAMA — Tecnopolo Data Manifattura Emilia-Romagna">
-  <figcaption>DAMA — Tecnopolo Data Manifattura Emilia-Romagna.</figcaption>
+  <img src="../assets/dama.jpg" alt="DAMA—Tecnopolo Data Manifattura Emilia-Romagna">
+  <figcaption>DAMA—Tecnopolo Data Manifattura Emilia-Romagna.</figcaption>
 </figure>
 
 ### Getting There
