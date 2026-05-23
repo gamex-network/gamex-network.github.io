@@ -100,6 +100,12 @@
   object-fit: contain;
 }
 
+.md-content sup {
+  font-size: 0.62em;
+  line-height: 0;
+  vertical-align: super;
+}
+
 .school-logo-strip--top {
   gap: 1.5rem;
 }
@@ -158,6 +164,35 @@
   max-height: 44px;
 }
 
+.school-venue-photo {
+  margin: 1rem 0 1.6rem;
+}
+
+.school-venue-photo img {
+  display: block;
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+}
+
+.school-venue-photo figcaption {
+  color: #666;
+  font-size: 0.82rem;
+  margin-top: 0.35rem;
+  text-align: left;
+}
+
+.school-map {
+  display: block;
+  margin: 1rem 0 1rem;
+}
+
+.school-map img {
+  display: block;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
 @media (max-width: 40em) {
   .school-logo-strip {
     gap: 1rem;
@@ -188,4 +223,5 @@
   .school-partner-logo--university-strip {
     max-height: 72px;
   }
+
 }
