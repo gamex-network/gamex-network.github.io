@@ -17,7 +17,7 @@ Building on the success of [GAME 2025](https://gail.ed.ac.uk/news-and-events/eve
 
 | Date | Theme | Agenda |
 | --- | --- | --- |
-| <strong>Tuesday</strong><br><strong>8 September</strong> | Foundations and Orientation | Welcome and overview; lectures; practical session; group work and office hours |
+| <strong>Tuesday</strong><br><strong>8 September</strong> | Foundations and Preparations | Welcome and overview; lectures; practical session; group work and office hours |
 | <strong>Wednesday</strong><br><strong>9 September</strong> | Neural Generative Models | Lectures; practical session; group work and office hours |
 | <strong>Thursday</strong><br><strong>10 September</strong> | Generative Models for Extremes | Lectures; practical session; group photo; group work and office hours |
 | <strong>Friday</strong><br><strong>11 September</strong> | Frontier Topics & Synthesis | Lectures; panel discussion; concluding remarks |
