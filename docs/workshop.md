@@ -78,6 +78,11 @@ DAMA — Tecnopolo Data Manifattura Emilia-Romagna
 Via Stalingrado 84/3  
 40128 Bologna (BO), Italy  
 
+<figure class="school-venue-photo">
+  <img src="../assets/dama.jpg" alt="DAMA — Tecnopolo Data Manifattura Emilia-Romagna">
+  <figcaption>DAMA — Tecnopolo Data Manifattura Emilia-Romagna.</figcaption>
+</figure>
+
 ### Getting There
 
 From **Bologna Centrale railway station**:
@@ -87,7 +92,10 @@ From **Bologna Centrale railway station**:
 - Walk along Via Casoni until the intersection with Via Stalingrado
 - Turn left onto Via Stalingrado
 
-Google Maps:  
-https://maps.app.goo.gl/ougHia9P3rfsAkSX7
+<a class="school-map" href="https://www.google.com/maps/dir/Bologna%20Centrale%2C%20Bologna/DAMA%20Tecnopolo%20Data%20Manifattura%20Emilia-Romagna%2C%20Via%20Stalingrado%2084%2F3%2C%2040128%20Bologna%20BO%2C%20Italy">
+  <img src="../assets/dama-map.png" alt="Map from Bologna Centrale to DAMA">
+</a>
+
+[Open route in Google Maps](https://www.google.com/maps/dir/Bologna%20Centrale%2C%20Bologna/DAMA%20Tecnopolo%20Data%20Manifattura%20Emilia-Romagna%2C%20Via%20Stalingrado%2084%2F3%2C%2040128%20Bologna%20BO%2C%20Italy){ .md-button .md-button--primary }
 
 ---

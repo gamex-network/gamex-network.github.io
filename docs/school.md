@@ -17,10 +17,10 @@ Building on the success of [GAME 2025](https://gail.ed.ac.uk/news-and-events/eve
 
 | Date | Theme | Agenda |
 | --- | --- | --- |
-| <strong>Tuesday</strong><br><strong>8 September</strong> | Foundations and Preparations | Welcome and overview; lectures; practical session; group work and office hours |
-| <strong>Wednesday</strong><br><strong>9 September</strong> | Neural Generative Models | Lectures; practical session; group work and office hours |
-| <strong>Thursday</strong><br><strong>10 September</strong> | Generative Models for Extremes | Lectures; practical session; group photo; group work and office hours |
-| <strong>Friday</strong><br><strong>11 September</strong> | Frontier Topics & Synthesis | Lectures; panel discussion; concluding remarks |
+| <strong>Tuesday</strong><br><strong>8 Sep</strong> | Foundations and Preparations | Welcome and overview; lectures; practical session; group work and office hours |
+| <strong>Wednesday</strong><br><strong>9 Sep</strong> | Neural Generative Models | Lectures; practical session; group work and office hours |
+| <strong>Thursday</strong><br><strong>10 Sep</strong> | Generative Models for Extremes | Lectures; practical session; group photo; group work and office hours |
+| <strong>Friday</strong><br><strong>11 Sep</strong> | Frontier Topics & Synthesis | Lectures; panel discussion; concluding remarks |
 
 <div class="school-programme-note"><sup>†</sup> Further details to be added soon.</div>
 
@@ -59,7 +59,7 @@ From **Edinburgh Waverley** train station, JCMB is around 3 miles south at the K
   <img src="../assets/jcmb-map.png" alt="Map from Edinburgh Waverley to JCMB">
 </a>
 
-[Open route in Google Maps](https://www.google.com/maps/dir/Edinburgh%20Waverley%2C%20Edinburgh/James%20Clerk%20Maxwell%20Building%2C%20Peter%20Guthrie%20Tait%20Road%2C%20Edinburgh%20EH9%203FD){ .md-button }
+[Open route in Google Maps](https://www.google.com/maps/dir/Edinburgh%20Waverley%2C%20Edinburgh/James%20Clerk%20Maxwell%20Building%2C%20Peter%20Guthrie%20Tait%20Road%2C%20Edinburgh%20EH9%203FD){ .md-button .md-button--primary }
 
 ## Partners
 
