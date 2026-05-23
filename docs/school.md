@@ -9,7 +9,7 @@
 
 Following the success of GAME 2025 in Edinburgh, the first workshop on generative AI modelling for extreme events, this summer school brings PhD students and early-career researchers to the interface of generative AI and extreme value theory.
 
-Registration is now open.
+**Registration is now open; closing on 31 July 2026.**
 
 [Register here](https://forms.cloud.microsoft/e/RKSupx7MuA){ .md-button .md-button--primary }
 
@@ -27,9 +27,9 @@ Registration is now open.
 ## Chair
 
 <div class="school-people">
-<strong>Miguel de Carvalho</strong><br>
-Professor & Chair of Statistics and Data Science<br>
-University of Edinburgh
+<strong>Professor Miguel de Carvalho</strong><br>
+Chair of Statistics &amp; Data Science<br>
+Elected Fellow of Generative AI Laboratory
 </div>
 
 ## Organisers

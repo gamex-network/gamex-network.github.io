@@ -108,6 +108,7 @@
 
 .school-logo-strip--top {
   gap: 1.5rem;
+  justify-content: space-between;
 }
 
 .school-date {
@@ -124,6 +125,7 @@
 .school-logo--gamex {
   width: min(95px, 18vw);
   max-height: 95px;
+  margin-left: auto;
 }
 
 .md-content .md-button--primary {
