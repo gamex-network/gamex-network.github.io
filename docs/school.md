@@ -35,7 +35,7 @@ Elected Fellow of Generative AI Laboratory
 ## Organisers
 
 <div class="school-people school-people--organisers">
-Johnny Lee (Edinburgh), Lambert De Monde (Edinburgh), Jordan Richards (Edinburgh), Daniela Castro-Camilo (Glasgow), Mengran Li (Glasgow), Teng Wei Yeo (Glasgow), and Luca Trapin (Bologna).
+Johnny Lee (Edinburgh), Lambert de Monte (Edinburgh), Jordan Richards (Edinburgh), Daniela Castro-Camilo (Glasgow), Mengran Li (Glasgow), Teng Wei Yeo (Glasgow), and Luca Trapin (Bologna).
 </div>
 
 ## Materials
