@@ -10,7 +10,7 @@
 - **[Scientific Workshop](workshop.md)**  
   *University of Bologna, 11–12 June 2026*
 
-- **[Summer School on Generative AI for Extremes](school.md)**  
+- **[Edinburgh Summer School on Generative AI for Extremes](school.md)**
   *University of Edinburgh, 8–11 September 2026*
 
 - **[Online Seminar Series](seminars.md)**  
@@ -31,4 +31,3 @@ GAMEX is conceived as a platform, not a stand-alone project. Beyond its 2026 act
 <br>
 
 ![UnaEuropaThanks](assets/UnaEuropaThanks.png){: style="display:block; margin: 0 auto; width: 50%;" }
-
