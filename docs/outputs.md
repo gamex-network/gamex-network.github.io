@@ -4,9 +4,9 @@ Selected outputs and activities supported by Una Europa funding:
 
 ## Resources
 
-- Editorial for the special issue [“Bridging Heavy Tails & AI”](https://webhomes.maths.ed.ac.uk/~mdecarv/papers/editorial.pdf), *Extremes* (2026).
+- Editorial for special issue [“Bridging Heavy Tails & AI”](https://webhomes.maths.ed.ac.uk/~mdecarv/papers/editorial.pdf), *Extremes* (2026).
 
-- [*Handbook of Statistics of Extremes*](https://extremestats.github.io/Handbook/), 2026, Chapman & Hall/CRC.
+- [*Handbook of Statistics of Extremes*](https://extremestats.github.io/Handbook/) (2026), Chapman & Hall/CRC.
 
 ## Papers
 
