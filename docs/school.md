@@ -50,6 +50,8 @@ Materials will be made available by the instructors in due time. Other resources
 
 The summer school will take place at **JCMB (James Clerk Maxwell Building)**, University of Edinburgh, Peter Guthrie Tait Road, King’s Buildings, Edinburgh EH9 3FD.
 
+Rooms: **Lecture Theatre B** for lectures and **Teaching Studio 3217** for practical sessions.
+
 <figure class="school-venue-photo">
   <img src="../assets/jcmb.jpg" alt="James Clerk Maxwell Building">
   <figcaption>JCMB, University of Edinburgh.</figcaption>
