@@ -102,3 +102,7 @@ From **Bologna Centrale railway station**:
 [Open route in Google Maps](https://www.google.com/maps/dir/Bologna%20Centrale%2C%20Bologna/DAMA%20Tecnopolo%20Data%20Manifattura%20Emilia-Romagna%2C%20Via%20Stalingrado%2084%2F3%2C%2040128%20Bologna%20BO%2C%20Italy){ .md-button .md-button--primary }
 
 ---
+
+## Partners
+
+![UnaEuropaThanks](assets/partnersworkshop.pdf){: style="display:block; margin: 0 auto; width: 50%;" }
