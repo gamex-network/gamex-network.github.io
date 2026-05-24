@@ -14,12 +14,12 @@ nav:
   - Home: index.md
   - Project: project.md
   - People: people.md
-  - Outputs: outputs.md
   - Activities:
       - Scientific Workshop: workshop.md
       - Summer School: school.md
       - Seminar Series: seminars.md
       - Mobility: mobility.md
+  - Outputs: outputs.md
   - Contact: contact.md
 
 markdown_extensions:
