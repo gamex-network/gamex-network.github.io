@@ -6,7 +6,7 @@ The following manuscripts and resources acknowledge Una Europa funding:
 
 - Editorial for the special issue [“Bridging Heavy Tails & AI”](https://webhomes.maths.ed.ac.uk/~mdecarv/papers/editorial.pdf), *Extremes* (2026).
 
-- [*Handbook of Statistics of Extremes*](https://extremestats.github.io/Handbook/).
+- [*Handbook of Statistics of Extremes*](https://extremestats.github.io/Handbook/), 2026, Chapman & Hall/CRC.
 
 ## Papers
 
