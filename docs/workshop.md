@@ -46,7 +46,7 @@ The preliminary programme is reported below. Talk titles and further details wil
 | 15:30 – 16:00 | **Coffee break** |  |
 | 16:00 – 16:30 | Sebastian Engelke | University of Geneva |
 | 16:30 – 17:00 | Maud Thomas | Université Lyon 1 |
-| 17:00 – 17:30 | Alison Peard | University of Oxford |
+| 17:00 – 17:30 | Likun Zhang | University of Missouri |
 
 ---
 
@@ -59,12 +59,12 @@ The preliminary programme is reported below. Talk titles and further details wil
 | 10:30 – 11:00 | Matteo Angelinelli | HPC CINECA |
 | 11:00 – 11:30 | **Coffee break—Group photo** |  |
 | 11:30 – 12:00 | Olivier Lopez | CREST – ENSAE IP Paris |
-| 12:00 – 12:30 | TBA |  |
+| 12:00 – 12:30 | Alison Peard | University of Oxford |
 | 12:30 – 13:00 | Ashley Turner | Imperial College London |
 | 13:00 – 14:00 | **Lunch break** |  |
 | 14:00 – 14:30 | Amir Khorrami Chokami | University of Cagliari |
 | 14:30 – 15:00 | Nathan Huet | Ca' Foscari University of Venice |
-| 15:00 – 15:30 | Ivo Bonfanti | University of Bologna |
+| 15:00 – 15:30 | Jean Pachebat | École Polytechnique |
 | 15:30 – 16:00 | **Coffee break** |  |
 | 16:00 – 16:30 | Jordan Richards | University of Edinburgh |
 | 16:30 – 17:00 | Daniela Castro-Camilo | University of Glasgow |
