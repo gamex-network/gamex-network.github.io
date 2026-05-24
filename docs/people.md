@@ -7,7 +7,7 @@
 
 
 - **Miguel de Carvalho**—University of Edinburgh  
-  *Scientific Coordinator and Chair of the Summer School*
+  *Scientific Director and Chair of the Summer School*
 
 ---
 
@@ -38,8 +38,6 @@
 
 ## External collaborators
 
-### European Courses in Advanced Statistics
-
 <div class="school-logo-strip school-logo-strip--partners">
-  <img class="school-partner-logo school-partner-logo--ecas" src="../assets/ecas-logo.png" alt="European Courses in Advanced Statistics">
+  <img class="school-partner-logo school-partner-logo--ecas people-logo--ecas" src="../assets/ecas-logo.png" alt="ECAS">
 </div>
