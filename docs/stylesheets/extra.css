@@ -251,6 +251,11 @@
   max-height: 45px;
 }
 
+.school-partner-logo--ecas {
+  max-width: 105px;
+  max-height: 42px;
+}
+
 .school-venue-photo {
   margin: 1rem 0 1.6rem;
 }

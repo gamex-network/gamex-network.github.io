@@ -11,7 +11,7 @@
 
 ## Overview
 
-Building on the success of [GAME 2025](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events-2025) in Edinburgh, the first worldwide workshop on generative AI modelling for extreme events, this summer school is led by GLE<sup>2</sup>N (Glasgow–Edinburgh Extremes Network) and brings PhD students and early-career researchers to the interface of generative AI and extreme value theory.
+Building on the success of [GAME 2025](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events-2025) in Edinburgh, the first worldwide workshop on generative AI modelling for extreme events, this summer school is led by GLE<sup>2</sup>N (Glasgow–Edinburgh Extremes Network) and brings PhD students and early-career researchers to the interface of generative AI and extreme value theory. It is an official ECAS course (European Courses in Advanced Statistics).
 
 **Registration is now open; closing on 31 July 2026.**
 
@@ -79,5 +79,6 @@ From **Edinburgh Waverley** train station, JCMB is around 3 miles south at the K
   <img class="school-partner-logo school-partner-logo--wide" src="../assets/cii.jpeg" alt="Centre for Investing Innovation">
   <img class="school-partner-logo school-partner-logo--wide" src="../assets/probai-logo.png" alt="Prob-AI">
   <img class="school-partner-logo school-partner-logo--wide" src="../assets/leverhulme-trust.png" alt="Leverhulme Trust">
+  <img class="school-partner-logo school-partner-logo--ecas" src="../assets/ecas-logo.png" alt="European Courses in Advanced Statistics">
   <img class="school-partner-logo school-partner-logo--mark" src="../assets/glen.png" alt="Glasgow-Edinburgh Extremes Network">
 </div>
