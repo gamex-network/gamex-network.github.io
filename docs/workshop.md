@@ -105,4 +105,4 @@ From **Bologna Centrale railway station**:
 
 ## Partners
 
-![PartnersLogo](../assets/partnersworkshop.png){: style="display:block; margin: 0 auto; width: 200%;" }
+![PartnersLogo](assets/partnersworkshop.png){: style="display:block; margin: 0 auto; width: 200%;" }
