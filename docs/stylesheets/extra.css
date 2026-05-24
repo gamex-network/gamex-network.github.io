@@ -168,7 +168,10 @@
 
 .md-content h2#chair,
 .md-content h2#organisers,
-.md-content h2#materials {
+.md-content h2#materials,
+.md-content h2#resources,
+.md-content h2#papers,
+.md-content h2#invited-talks {
   font-size: 1.18rem;
   margin-top: 0.9rem;
 }
