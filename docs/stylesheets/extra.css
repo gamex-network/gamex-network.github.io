@@ -172,7 +172,8 @@
 .md-content h2#resources,
 .md-content h2#papers,
 .md-content h2#invited-talks {
-  font-size: 1.18rem;
+  font-size: 1.18rem !important;
+  line-height: 1.3;
   margin-top: 0.9rem;
 }
 
