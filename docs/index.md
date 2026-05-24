@@ -16,6 +16,9 @@
 - **[Online Seminar Series](seminars.md)**  
   Regular talks by GAMEX partners and invited external speakers
 
+- **[Public Lectures and Visits](visits.md)**  
+  Philippe Naveau public lecture and visit at the University of Edinburgh
+
 - **[Short-term Research Visits](mobility.md)**  
   Mobility opportunities for PhD students and early-career researchers (ECRs)
 

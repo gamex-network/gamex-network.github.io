@@ -275,6 +275,10 @@
   margin: 1rem 0 1.6rem;
 }
 
+.visit-photo {
+  max-width: 360px;
+}
+
 .school-venue-photo img {
   display: block;
   width: 100%;
