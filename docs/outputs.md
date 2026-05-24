@@ -1,6 +1,6 @@
 # Outputs
 
-The following manuscripts and resources acknowledge Una Europa funding:
+Selected outputs and activities supported by Una Europa funding:
 
 ## Resources
 
