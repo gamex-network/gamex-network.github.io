@@ -207,6 +207,12 @@
   margin-top: 0.75rem;
 }
 
+.school-logo-strip--glen {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.9rem;
+}
+
 .school-partner-logo {
   justify-self: center;
   align-self: center;
@@ -256,8 +262,8 @@
 }
 
 .school-partner-logo--ecas {
-  max-width: 105px;
-  max-height: 42px;
+  max-width: 118px;
+  max-height: 48px;
 }
 
 .people-logo--ecas {
