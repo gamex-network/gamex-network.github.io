@@ -37,4 +37,9 @@
 ---
 
 ## External collaborators
-Additional academic and industrial collaborators will be listed here as the network expands.
+
+### European Courses in Advanced Statistics
+
+<div class="school-logo-strip school-logo-strip--partners">
+  <img class="school-partner-logo school-partner-logo--ecas" src="../assets/ecas-logo.png" alt="European Courses in Advanced Statistics">
+</div>
