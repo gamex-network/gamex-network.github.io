@@ -10,7 +10,7 @@
 - **[Scientific Workshop](workshop.md)**  
   *University of Bologna, 11–12 June 2026*
 
-- **[Edinburgh Summer School on Generative AI for Extremes](school.md)**
+- **[Edinburgh Summer School on Generative AI for Extremes](school.md)**  
   *University of Edinburgh, 8–11 September 2026*
 
 - **[Online Seminar Series](seminars.md)**  
