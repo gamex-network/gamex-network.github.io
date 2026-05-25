@@ -36,7 +36,7 @@
 
 ---
 
-## External collaborators
+## External Collaborators
 
 <div class="school-logo-strip school-logo-strip--partners">
   <img class="school-partner-logo school-partner-logo--ecas people-logo--ecas" src="../assets/ecas-logo.png" alt="ECAS">
