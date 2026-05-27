@@ -75,7 +75,9 @@ Programme details and talk titles will be updated in due course.
 ---
 
 ## Organizing Committee
-Luca Trapin (University of Bologna)
+
+Luca Trapin (University of Bologna) 
+
 Massimo Ventrucci (University of Bologna)
 
 ---
