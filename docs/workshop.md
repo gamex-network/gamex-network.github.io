@@ -56,7 +56,7 @@ The preliminary programme is reported below. Talk titles and further details wil
 |---|---|---|
 | 09:30 – 10:00 | Antonio Tirri & Melchiorre Danilo Abrignani | Leithà – Unipol Group |
 | 10:00 – 10:30 | Antonello Squintu | CMCC |
-| 10:30 – 11:00 | Matteo Angelinelli | HPC CINECA |
+| 10:30 – 11:00 | Matteo Angelinelli | CINECA HPC |
 | 11:00 – 11:30 | **Coffee break—Group photo** |  |
 | 11:30 – 12:00 | Olivier Lopez | CREST – ENSAE IP Paris |
 | 12:00 – 12:30 | Alison Peard | University of Oxford |
