@@ -11,7 +11,7 @@
 
 ## Overview
 
-Building on the success of [GAME 2025](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events-2025) in Edinburgh, the first worldwide workshop on generative AI modelling for extreme events, this summer school is led by GLE<sup>2</sup>N (Glasgow–Edinburgh Extremes Network) and brings PhD students and early-career researchers to the interface of generative AI and extreme value theory. It is an official ECAS course (European Courses in Advanced Statistics).
+Building on the success of [GAME 2025](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events-2025) in Edinburgh, the first worldwide workshop on generative AI modelling for extreme events, this summer school is led by GLE<sup>2</sup>N (Glasgow–Edinburgh Extremes Network) and brings PhD students and early-career researchers to the interface of generative AI and extreme value theory. It is an official ECAS course (European Courses in Advanced Statistics), and there is no registration fee.
 
 **Registration is now open; closing on 31 July 2026.**
 
