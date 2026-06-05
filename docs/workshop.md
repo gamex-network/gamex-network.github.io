@@ -23,9 +23,9 @@ A central objective of the workshop is to foster dialogue between the **Statisti
 
 ## Registration
 
-Registration is free but mandatory due to limited capacity.
+Registration is **closed** due to reached capacity.
 
-To check availability and register for the workshop, please contact Luca Trapin at:  
+For inforation about the event, please contact Luca Trapin at:  
 [luca.trapin@unibo.it](mailto:luca.trapin@unibo.it)
 
 ---
@@ -43,7 +43,7 @@ The preliminary programme is reported below. Talk titles and further details wil
 | 14:00 – 14:30 | Miguel de Carvalho | University of Edinburgh |
 | 14:30 – 15:00 | Giorgia Ramponi | University of Zurich |
 | 15:00 – 15:30 | Luis Alberto Gutiérrez Inostroza | Pontificia Universidad Católica de Chile |
-| 15:30 – 16:00 | **Coffee break** |  |
+| 15:30 – 16:00 | **Coffee break—Group photo** |  |
 | 16:00 – 16:30 | Sebastian Engelke | University of Geneva |
 | 16:30 – 17:00 | Maud Thomas | Université Lyon 1 |
 | 17:00 – 17:30 | Lambert De Monte | University of Edinburgh |
@@ -57,7 +57,7 @@ The preliminary programme is reported below. Talk titles and further details wil
 | 09:30 – 10:00 | Antonio Tirri & Melchiorre Danilo Abrignani | Leithà – Unipol Group |
 | 10:00 – 10:30 | Antonello Squintu | CMCC |
 | 10:30 – 11:00 | Matteo Angelinelli | CINECA HPC |
-| 11:00 – 11:30 | **Coffee break—Group photo** |  |
+| 11:00 – 11:30 | **Coffee break** |  |
 | 11:30 – 12:00 | Olivier Lopez | CREST – ENSAE IP Paris |
 | 12:00 – 12:30 | Alison Peard | University of Oxford |
 | 12:30 – 13:00 | Ashley Turner | Imperial College London |
@@ -70,7 +70,9 @@ The preliminary programme is reported below. Talk titles and further details wil
 | 16:30 – 17:00 | Daniela Castro-Camilo | University of Glasgow |
 | 17:00 – 17:30 | Johnny Lee | University of Edinburgh |
 
-Programme details and talk titles will be updated in due course.
+The full detailed programme, including talk titles and abstracts, is available below.
+
+[Download GAME2026_Detailed_Programme.pdf](assets/GAME2026_Detailed_Programme.pdf)
  
 ---
 
