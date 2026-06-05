@@ -46,7 +46,7 @@ The preliminary programme is reported below. Talk titles and further details wil
 | 15:30 – 16:00 | **Coffee break** |  |
 | 16:00 – 16:30 | Sebastian Engelke | University of Geneva |
 | 16:30 – 17:00 | Maud Thomas | Université Lyon 1 |
-| 17:00 – 17:30 | Likun Zhang | University of Missouri |
+| 17:00 – 17:30 | Lambert De Monte | University of Edinburgh |
 
 ---
 
