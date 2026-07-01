@@ -61,7 +61,7 @@ Rooms: **Lecture Theatre B** for lectures and **Teaching Studio 3217** for pract
 
 ## Accommodation
 
-Participants are responsible for arranging their own accommodation. A few bed-and-breakfast options around the King’s Buildings campus include Glendale and other guest houses around Mayfield Road, Minto Street, and Newington. University-run options such as Pollock Halls, The Scholar, and Salisbury Green may also be convenient when available.
+Participants are responsible for arranging their own accommodation. Options around the King’s Buildings campus include [Glendale Guest House](https://www.glendaleguesthouse.co.uk/) and other guest houses around Mayfield Road, Minto Street, and Newington. The University of Edinburgh’s [Summer Stays booking page](https://www.uoecollection.com/summer-stays-at-the-university-of-edinburgh/summer-stays/bookings#!/accommodation/search/date/2026-09-08/2026-09-11) lists additional accommodation options during the summer period.
 
 ## Getting There
 
