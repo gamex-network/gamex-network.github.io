@@ -59,6 +59,10 @@ Rooms: **Lecture Theatre B** for lectures and **Teaching Studio 3217** for pract
   <figcaption>JCMB, University of Edinburgh.</figcaption>
 </figure>
 
+## Accommodation
+
+Participants are responsible for arranging their own accommodation. A few bed-and-breakfast options around the King’s Buildings campus include Glendale and other guest houses around Mayfield Road, Minto Street, and Newington. University-run options such as Pollock Halls, The Scholar, and Salisbury Green may also be convenient when available.
+
 ## Getting There
 
 From **Edinburgh Waverley** train station, JCMB is around 3 miles south at the King’s Buildings campus. Allow around 20–30 minutes by bus or taxi, depending on traffic.
