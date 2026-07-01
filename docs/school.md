@@ -63,7 +63,7 @@ Rooms: **Lecture Theatre B** for lectures and **Teaching Studio 3217** for pract
 
 Participants are responsible for arranging their own accommodation. Options around the King’s Buildings campus include [Glendale Guest House](https://www.glendaleguesthouse.co.uk/) and other guest houses around Mayfield Road, Minto Street, and Newington. The University of Edinburgh’s [Summer Stays booking page](https://www.uoecollection.com/summer-stays-at-the-university-of-edinburgh/summer-stays/bookings#!/accommodation/search/date/2026-09-08/2026-09-11) lists additional accommodation options during the summer period.
 
-## Getting There
+## Getting to JCMB
 
 From **Edinburgh Waverley** train station, JCMB is around 3 miles south at the King’s Buildings campus. Allow around 20–30 minutes by bus or taxi, depending on traffic.
 
