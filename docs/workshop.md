@@ -77,7 +77,7 @@ The full detailed programme, including talk titles and abstracts, is available b
 ---
 ## Workshop Presentations
 
-Presentation slides will be made available below, subject to speaker approval.
+Presentation slides are available below.
 
 <ul>
   <li><a href="assets/presentations/miguel-de-carvalho.pdf" target="_blank">Miguel de Carvalho</a> — University of Edinburgh</li>
