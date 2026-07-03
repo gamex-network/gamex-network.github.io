@@ -80,7 +80,7 @@ The full detailed programme, including talk titles and abstracts, is available b
 Presentation slides are available below.
 
 <ul>
-  <li><a href="assets/presentations/miguel-de-carvalho.pdf" target="_blank">Miguel de Carvalho</a> — University of Edinburgh</li>
+  <li><a href="/assets/presentations/miguel-de-carvalho.pdf" target="_blank">Miguel de Carvalho</a> — University of Edinburgh</li>
   <li><a href="assets/presentations/giorgia-ramponi.pdf" target="_blank">Giorgia Ramponi</a> — University of Zurich</li>
   <li><a href="assets/presentations/luis-alberto-gutierrez-inostroza.pdf" target="_blank">Luis Alberto Gutiérrez Inostroza</a> — Pontificia Universidad Católica de Chile</li>
   <li><a href="assets/presentations/sebastian-engelke.pdf" target="_blank">Sebastian Engelke</a> — University of Geneva</li>
