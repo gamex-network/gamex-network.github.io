@@ -81,23 +81,23 @@ Presentation slides are available below.
 
 <ul>
   <li><a href="/assets/presentations/miguel-de-carvalho.pdf" target="_blank">Miguel de Carvalho</a> — University of Edinburgh</li>
-  <li><a href="assets/presentations/giorgia-ramponi.pdf" target="_blank">Giorgia Ramponi</a> — University of Zurich</li>
-  <li><a href="assets/presentations/luis-alberto-gutierrez-inostroza.pdf" target="_blank">Luis Alberto Gutiérrez Inostroza</a> — Pontificia Universidad Católica de Chile</li>
-  <li><a href="assets/presentations/sebastian-engelke.pdf" target="_blank">Sebastian Engelke</a> — University of Geneva</li>
-  <li><a href="assets/presentations/maud-thomas.pdf" target="_blank">Maud Thomas</a> — Université Lyon 1</li>
-  <li><a href="assets/presentations/lambert-de-monte.pdf" target="_blank">Lambert De Monte</a> — University of Edinburgh</li>
-  <li><a href="assets/presentations/antonio-tirri-danilo-abrignani.pdf" target="_blank">Antonio Tirri & Melchiorre Danilo Abrignani</a> — Leithà – Unipol Group</li>
-  <li><a href="assets/presentations/antonello-squintu.pdf" target="_blank">Antonello Squintu</a> — CMCC</li>
-  <li><a href="assets/presentations/matteo-angelinelli.pdf" target="_blank">Matteo Angelinelli</a> — CINECA HPC</li>
-  <li><a href="assets/presentations/olivier-lopez.pdf" target="_blank">Olivier Lopez</a> — CREST – ENSAE IP Paris</li>
-  <li><a href="assets/presentations/alison-peard.pdf" target="_blank">Alison Peard</a> — University of Oxford</li>
-  <li><a href="assets/presentations/ashley-turner.pdf" target="_blank">Ashley Turner</a> — Imperial College London</li>
-  <li><a href="assets/presentations/amir-khorrami-chokami.pdf" target="_blank">Amir Khorrami Chokami</a> — University of Cagliari</li>
-  <li><a href="assets/presentations/nathan-huet.pdf" target="_blank">Nathan Huet</a> — Ca' Foscari University of Venice</li>
-  <li><a href="assets/presentations/jean-pachebat.pdf" target="_blank">Jean Pachebat</a> — École Polytechnique</li>
-  <li><a href="assets/presentations/jordan-richards.pdf" target="_blank">Jordan Richards</a> — University of Edinburgh</li>
-  <li><a href="assets/presentations/daniela-castro-camilo.pdf" target="_blank">Daniela Castro-Camilo</a> — University of Glasgow</li>
-  <li><a href="assets/presentations/johnny-lee.pdf" target="_blank">Johnny Lee</a> — University of Edinburgh</li>
+  <li><a href="/assets/presentations/giorgia-ramponi.pdf" target="_blank">Giorgia Ramponi</a> — University of Zurich</li>
+  <li><a href="/assets/presentations/luis-alberto-gutierrez-inostroza.pdf" target="_blank">Luis Alberto Gutiérrez Inostroza</a> — Pontificia Universidad Católica de Chile</li>
+  <li><a href="/assets/presentations/sebastian-engelke.pdf" target="_blank">Sebastian Engelke</a> — University of Geneva</li>
+  <li><a href="/assets/presentations/maud-thomas.pdf" target="_blank">Maud Thomas</a> — Université Lyon 1</li>
+  <li><a href="/assets/presentations/lambert-de-monte.pdf" target="_blank">Lambert De Monte</a> — University of Edinburgh</li>
+  <li><a href="/assets/presentations/antonio-tirri-danilo-abrignani.pdf" target="_blank">Antonio Tirri & Melchiorre Danilo Abrignani</a> — Leithà – Unipol Group</li>
+  <li><a href="/assets/presentations/antonello-squintu.pdf" target="_blank">Antonello Squintu</a> — CMCC</li>
+  <li><a href="/assets/presentations/matteo-angelinelli.pdf" target="_blank">Matteo Angelinelli</a> — CINECA HPC</li>
+  <li><a href="/assets/presentations/olivier-lopez.pdf" target="_blank">Olivier Lopez</a> — CREST – ENSAE IP Paris</li>
+  <li><a href="/assets/presentations/alison-peard.pdf" target="_blank">Alison Peard</a> — University of Oxford</li>
+  <li><a href="/assets/presentations/ashley-turner.pdf" target="_blank">Ashley Turner</a> — Imperial College London</li>
+  <li><a href="/assets/presentations/amir-khorrami-chokami.pdf" target="_blank">Amir Khorrami Chokami</a> — University of Cagliari</li>
+  <li><a href="/assets/presentations/nathan-huet.pdf" target="_blank">Nathan Huet</a> — Ca' Foscari University of Venice</li>
+  <li><a href="/assets/presentations/jean-pachebat.pdf" target="_blank">Jean Pachebat</a> — École Polytechnique</li>
+  <li><a href="/assets/presentations/jordan-richards.pdf" target="_blank">Jordan Richards</a> — University of Edinburgh</li>
+  <li><a href="/assets/presentations/daniela-castro-camilo.pdf" target="_blank">Daniela Castro-Camilo</a> — University of Glasgow</li>
+  <li><a href="/assets/presentations/johnny-lee.pdf" target="_blank">Johnny Lee</a> — University of Edinburgh</li>
 </ul>
 ---
 
