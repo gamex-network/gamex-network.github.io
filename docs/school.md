@@ -61,7 +61,7 @@ Rooms: **Lecture Theatre B** for lectures and **Teaching Studio 3217** for pract
 
 ## Accommodation
 
-Participants are responsible for arranging their own accommodation. Options around the King’s Buildings campus include [Glendale Guest House](https://www.glendaleguesthouse.co.uk/) and other guest houses around Mayfield Road, Minto Street, and Newington. The University of Edinburgh’s [Summer Stays booking page](https://www.uoecollection.com/summer-stays-at-the-university-of-edinburgh/summer-stays/bookings#!/accommodation/search/date/2026-09-08/2026-09-11) lists additional accommodation options during the summer period.
+Participants are responsible for arranging their own accommodation. Options around the King’s Buildings campus include [Glendale Guest House](https://www.glendaleguesthouse.co.uk/) and other guest houses around Mayfield Road, Minto Street, and Newington. Potentially affordable options near King’s Buildings include Allison House 16, Allison House 17, Ardgowan Guest House, JOIVY Meadows Park En-suite Rooms, Travelodge Edinburgh Cameron Toll, and Tantallon Bed and Breakfast; near the city centre, options include Travelodge Edinburgh Central Waterloo Place, Hub by Premier Inn Edinburgh Royal Mile Hotel, and Premier Inn Edinburgh Central (Lauriston Place) Hotel. The University of Edinburgh’s [Summer Stays booking page](https://www.uoecollection.com/summer-stays-at-the-university-of-edinburgh/summer-stays/bookings#!/accommodation/search/date/2026-09-08/2026-09-11) lists additional accommodation options during the summer period.
 
 ## Getting to JCMB
 
