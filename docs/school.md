@@ -23,12 +23,12 @@ To be considered if additional places become available, or to join the waiting l
 
 | Date | Theme | Agenda |
 | --- | --- | --- |
-| <strong>Tuesday</strong><br><strong>8 Sep</strong> | Foundations and Preparations | Welcome and overview; lectures; practical session; group work and office hours |
-| <strong>Wednesday</strong><br><strong>9 Sep</strong> | Neural Generative Models | Lectures; practical session; group work and office hours |
-| <strong>Thursday</strong><br><strong>10 Sep</strong> | Generative Models for Extremes | Lectures; practical session; group photo; group work and office hours |
-| <strong>Friday</strong><br><strong>11 Sep</strong> | Frontier Topics & Synthesis | Lectures; panel discussion; concluding remarks |
+| <strong>Tuesday</strong><br><strong>8 Sep</strong> | Foundations and Preparations for Generative Modelling | Registration and welcome coffee; lectures; practical session |
+| <strong>Wednesday</strong><br><strong>9 Sep</strong> | Generative Modelling for Extremes and Risk | Lectures; practical session; group photo; open practice and office hours |
+| <strong>Thursday</strong><br><strong>10 Sep</strong> | Multivariate Extremes, Cascades, and Simulation | Lectures; practical session; open practice and office hours |
+| <strong>Friday</strong><br><strong>11 Sep</strong> | Other Frontier Topics | Lectures; closing remarks |
 
-<div class="school-programme-note"><sup>†</sup> Further details to be added soon.</div>
+<div class="school-programme-note"><sup>†</sup> See the <a href="assets/GAME2026_Detailed_Programme.pdf">detailed programme and agenda</a>.</div>
 
 ## Chair
 
