@@ -28,7 +28,7 @@ To be considered if additional places become available, or to join the waiting l
 | <strong>Thursday</strong><br><strong>10 Sep</strong> | Multivariate Extremes, Cascades, and Simulation | Lectures; practical session; open practice and office hours |
 | <strong>Friday</strong><br><strong>11 Sep</strong> | Other Frontier Topics | Lectures; closing remarks |
 
-<div class="school-programme-note"><sup>†</sup> See the <a href="assets/GAME2026_Detailed_Programme.pdf">detailed programme and agenda</a>.</div>
+<div class="school-programme-note"><sup>†</sup> See the <a href="../assets/GAME2026_Detailed_Programme.pdf">detailed programme and agenda</a>.</div>
 
 ## Chair
 
