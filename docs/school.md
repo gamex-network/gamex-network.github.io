@@ -48,6 +48,8 @@ Johnny Lee (Edinburgh), Lambert de Monte (Edinburgh), Jordan Richards (Edinburgh
 
 Materials will be made available by the instructors in due time. Other resources include selected parts of the [Handbook of Statistics of Extremes](https://extremestats.github.io/Handbook/) and parts of the recent special issue on [Bridging Heavy Tails and AI](https://webhomes.maths.ed.ac.uk/~mdecarv/papers/editorial.pdf).
 
+Participants should have Python and Jupyter available; examples of required modules include `torch`, `numpy`, `scipy`, `pandas`, and `matplotlib`.
+
 ## Venue
 
 The summer school will take place at **JCMB (James Clerk Maxwell Building)**, University of Edinburgh, Peter Guthrie Tait Road, King’s Buildings, Edinburgh EH9 3FD.
