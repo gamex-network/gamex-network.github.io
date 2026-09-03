@@ -1,0 +1,352 @@
+/* =========================
+   GAMEX – Petrol theme
+   ========================= */
+
+/* Header background */
+.md-header {
+  background-color: #114b5f !important;
+}
+
+/* Top navigation links */
+.md-header__inner .md-nav__link {
+  color: #ffffff !important;
+}
+
+/* Hover on top navigation */
+.md-header__inner .md-nav__link:hover,
+.md-header__inner .md-nav__link--active {
+  background-color: #0e3f50 !important;
+  color: #ffffff !important;
+}
+
+/* Tabs hover (if tabs are enabled) */
+.md-tabs {
+  background-color: #114b5f !important;
+}
+
+.md-tabs__link {
+  color: #ffffff !important;
+}
+
+.md-tabs__link:hover,
+.md-tabs__link--active {
+  background-color: #0e3f50 !important;
+}
+
+/* Optional: links inside content */
+.md-content a {
+  color: #114b5f;
+}
+
+.md-content a:hover {
+  color: #0e3f50;
+}
+
+/* Body text */
+.md-content {
+  font-size: 1.08rem;
+}
+
+/* Section headings */
+.md-content h1 {
+  font-size: 2.2rem;
+}
+
+.md-content h2 {
+  font-size: 1.7rem;
+}
+
+.md-content h3 {
+  font-size: 1.35rem;
+}
+
+/* Hide the search UI (icon + bar) */
+.md-search {
+  display: none !important;
+}
+
+/* Increase spacing between main content and right-hand ToC */
+.md-content {
+  margin-right: 3rem;
+}
+
+/* Push the table of contents further to the right */
+.md-sidebar--secondary {
+  padding-left: 2rem;
+}
+
+/* Justify main text content */
+.md-content p {
+  text-align: justify;
+}
+
+/* Keep right sidebar but hide the Table of Contents content */
+.md-sidebar--secondary .md-nav--secondary {
+  display: none !important;
+}
+
+.school-logo-strip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  margin: 0.75rem 0 1rem;
+}
+
+.school-logo-strip img {
+  display: block;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.md-content sup {
+  font-size: 0.62em;
+  line-height: 0;
+  vertical-align: super;
+}
+
+.school-logo-strip--top {
+  gap: 1.5rem;
+  justify-content: space-between;
+}
+
+.school-date {
+  font-weight: 700;
+  margin-top: -0.35rem;
+  text-align: right;
+}
+
+.school-logo--edinburgh {
+  width: min(410px, 56vw);
+  max-height: 98px;
+}
+
+.workshop-logo--bologna {
+  width: min(240px, 41vw);
+  max-height: 92px;
+}
+
+.school-logo--gamex {
+  width: min(95px, 18vw);
+  max-height: 95px;
+  margin-left: auto;
+}
+
+.md-content .md-button {
+  border-color: #114b5f;
+  color: #114b5f;
+}
+
+.md-content .md-button:hover {
+  background-color: #eef6f8;
+  border-color: #0e3f50;
+  color: #0e3f50;
+}
+
+.md-content .md-button--primary {
+  background-color: #114b5f;
+  border-color: #114b5f;
+  color: #ffffff;
+}
+
+.md-content .md-button--primary:hover {
+  background-color: #0e3f50;
+  border-color: #0e3f50;
+  color: #ffffff;
+}
+
+.md-content h2 {
+  margin-bottom: 0.45rem;
+  margin-top: 1.05rem;
+}
+
+.md-content p + .md-button,
+.md-content p:has(.md-button) {
+  margin-bottom: 0.2rem;
+}
+
+.md-content h2#chair,
+.md-content h2#organisers,
+.md-content h2#materials,
+.md-content h2#resources,
+.md-content h2#papers,
+.md-content h2#invited-talks {
+  font-size: 1.18rem !important;
+  line-height: 1.3;
+  margin-top: 0.9rem;
+}
+
+.school-people {
+  font-size: 0.84rem;
+  line-height: 1.55;
+}
+
+.school-people--organisers {
+  font-size: 0.82rem;
+}
+
+.school-programme-note {
+  color: #666;
+  font-size: 0.78rem;
+  margin-top: -1.15rem;
+  text-align: center;
+}
+
+.school-logo-strip--partners {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.65rem 1.2rem;
+  margin-top: 0.65rem;
+}
+
+.school-logo-strip--partner-groups {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.85rem 1.3rem;
+  margin-top: 0.75rem;
+}
+
+.school-logo-strip--glen {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.9rem;
+}
+
+.school-partner-logo {
+  justify-self: center;
+  align-self: center;
+  width: auto;
+  object-fit: contain;
+}
+
+.school-partner-logo--wide {
+  max-width: 165px;
+  max-height: 48px;
+}
+
+.school-partner-logo--mark {
+  max-width: 92px;
+  max-height: 92px;
+}
+
+.school-partner-logo--university-strip {
+  grid-column: 1 / -1;
+  width: min(100%, 900px);
+  max-height: 86px;
+}
+
+.school-partner-logo[alt="Generative AI Laboratory"] {
+  max-width: 180px;
+  max-height: 50px;
+}
+
+.school-partner-logo[alt="Edinburgh Centre for Financial Innovations"] {
+  max-width: 170px;
+  max-height: 46px;
+}
+
+.school-partner-logo[alt="Centre for Investing Innovation"] {
+  max-width: 160px;
+  max-height: 40px;
+}
+
+.school-partner-logo[alt="Prob-AI"] {
+  max-width: 175px;
+  max-height: 45px;
+}
+
+.school-partner-logo[alt="Leverhulme Trust"] {
+  max-width: 175px;
+  max-height: 45px;
+}
+
+.school-partner-logo--ecas {
+  max-width: 118px;
+  max-height: 48px;
+}
+
+.people-logo--ecas {
+  max-width: 220px;
+  max-height: 90px;
+}
+
+.school-venue-photo {
+  margin: 1rem 0 1.6rem;
+}
+
+.visit-photo {
+  max-width: 360px;
+}
+
+.school-venue-photo img {
+  display: block;
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+}
+
+.school-venue-photo figcaption {
+  color: #666;
+  font-size: 0.72rem;
+  font-style: normal;
+  margin-top: 0.35rem;
+  text-align: center;
+}
+
+.school-map {
+  display: block;
+  margin: 1rem 0 1rem;
+}
+
+.school-map img {
+  display: block;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+@media (max-width: 40em) {
+  .school-logo-strip {
+    gap: 1rem;
+  }
+
+  .school-logo--edinburgh {
+    width: min(300px, 84vw);
+  }
+
+  .workshop-logo--bologna {
+    width: min(205px, 66vw);
+  }
+
+  .school-logo--gamex {
+    width: min(84px, 34vw);
+  }
+
+  .school-date {
+    text-align: left;
+  }
+
+  .school-logo-strip--partners {
+    grid-template-columns: 1fr;
+  }
+
+  .school-logo-strip--partner-groups {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .school-partner-logo--wide {
+    max-width: 150px;
+    max-height: 46px;
+  }
+
+  .school-partner-logo--mark {
+    max-width: 68px;
+    max-height: 68px;
+  }
+
+  .school-partner-logo--university-strip {
+    max-height: 72px;
+  }
+
+}
