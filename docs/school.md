@@ -19,7 +19,7 @@ To be considered if additional places become available, or to join the waiting l
 
 [Expression of Interest](https://forms.office.com/e/MNxd0w0bei){ .md-button .md-button--primary }
 
-## Provisional Programme
+## Programme
 
 | Date | Theme | Agenda |
 | --- | --- | --- |
