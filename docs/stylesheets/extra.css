@@ -193,6 +193,24 @@
   text-align: center;
 }
 
+.school-group-photo {
+  margin: 1.25rem 0 1.6rem;
+}
+
+.school-group-photo img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.school-group-photo figcaption {
+  color: #666;
+  font-size: 0.72rem;
+  font-style: normal;
+  margin-top: 0.35rem;
+  text-align: center;
+}
+
 .school-logo-strip--partners {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));

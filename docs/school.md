@@ -30,6 +30,13 @@ To be considered if additional places become available, or to join the waiting l
 
 <div class="school-programme-note"><sup>†</sup> See the <a href="../assets/GAME2026_Detailed_Programme.pdf">detailed programme and agenda</a>.</div>
 
+<figure class="school-group-photo">
+  <a href="../assets/summer-school-2026/day2-group-photo.jpg">
+    <img src="../assets/summer-school-2026/day2-group-photo.jpg" alt="Summer School participants and instructors outside the James Clerk Maxwell Building">
+  </a>
+  <figcaption>Summer School participants and instructors, 9 September 2026.</figcaption>
+</figure>
+
 ## Chair
 
 <div class="school-people">
