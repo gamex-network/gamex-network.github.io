@@ -34,7 +34,7 @@ To be considered if additional places become available, or to join the waiting l
   <a href="../assets/summer-school-2026/day2-group-photo.jpg">
     <img src="../assets/summer-school-2026/day2-group-photo.jpg" alt="Summer School participants and instructors outside the James Clerk Maxwell Building">
   </a>
-  <figcaption>Summer School participants and instructors, 9 September 2026.</figcaption>
+  <figcaption>Group Photo.</figcaption>
 </figure>
 
 ## Chair
