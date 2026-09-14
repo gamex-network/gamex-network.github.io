@@ -40,6 +40,51 @@ We illustrate the methodology by analyzing the monthly maximum Fire Weather Inde
 **Access link:** 
 [Join the seminar on Zoom](https://uofglasgow.zoom.us/j/87240389315?pwd=WPO6tY8MKSwFojlUn6iUHTbEXx58DY.1)
 
+--
+
+### October 2, 2026  
+**Time:** 15:30 CEST (13:30 UTC / 14:30 BST)
+
+**Speaker:** Antonio Ocello (ENSAE Paris)  
+
+**Title:**  
+*Do Heavy Tails Help Diffusion? On the Subtle Trade-off Between Initialization and Training*
+
+**Abstract:**  
+Recent works have proposed incorporating heavy-tailed (HT) noise into diffusion- and flow-based generative models, with the goals of better recovering the tails of target distributions and improving generative diversity. This motivation is intuitive: if the data are heavy-tailed, HT noise may appear better matched than light-tailed (LT) Gaussian noise. However, replacing Gaussian noise by HT noise also changes the underlying estimation problem.
+
+In this talk, we revisit this paradigm through a combined theoretical and empirical study, establishing sampling-error bounds for two representative diffusion models driven by HT and LT noise. We show that HT noise makes the statistical estimation problem harder, leading to less favorable sampling-error bounds. We support these findings with experiments on synthetic and real-world datasets, empirically recovering the predicted error trade-off.
+
+Our results call into question a growing design trend in generative modeling and challenge the use of HT noise to improve rare-region exploration.
+
+This talk is based on joint work with Hamza Cherkaoui and Hélène Halconruy:  
+[arXiv:2605.13175](https://arxiv.org/abs/2605.13175)
+
+**Connection details:**  
+[Join the seminar on Microsoft Teams](https://teams.microsoft.com/meet/349080320615578?p=MrknbOLzIhJmewxAjO)
+
+**Meeting ID:** 349 080 320 615 578  
+**Passcode:** ZL64qq2j
+
+---
+
+### December 4, 2026  
+**Time:** 15:30 CET (14:30 UTC / 14:30 GMT)
+
+**Speaker:** Caroline Cognot (UCLouvain)  
+
+**Title:**  
+*TBC*
+
+**Abstract:**  
+TBC
+
+**Connection details:**  
+[Join the seminar on Microsoft Teams](https://teams.microsoft.com/meet/349080320615578?p=MrknbOLzIhJmewxAjO)
+
+**Meeting ID:** 349 080 320 615 578  
+**Passcode:** ZL64qq2j
+
 ---
 
 ## Propose a seminar  
