@@ -45,7 +45,8 @@ extra_css:
 extra_javascript:
   - javascripts/sidebar-clean.js
 
-plugins: []
+plugins:
+  - search
 
 copyright: >
   © 2026 GAMEX — Generative AI Modeling for Extreme Events.  
