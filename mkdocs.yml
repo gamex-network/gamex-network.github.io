@@ -1,5 +1,11 @@
-site_name: GAMEX
-site_description: Generative AI Modeling for Extreme Events
+site_name: GAMEX — Generative AI Modeling for Extreme Events
+
+site_description: >
+  GAMEX is a Una Europa-funded international research network
+  connecting Generative Artificial Intelligence and
+  Extreme Value Theory to advance the modelling of rare
+  and high-impact events.
+
 site_url: https://gamex-network.github.io/
 
 theme:
