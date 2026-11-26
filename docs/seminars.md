@@ -68,22 +68,24 @@ This talk is based on joint work with Hamza Cherkaoui and Hélène Halconruy:
 
 ---
 
+
 ### December 4, 2026  
 **Time:** 15:30 CET (14:30 UTC / 14:30 GMT)
 
 **Speaker:** Caroline Cognot (UCLouvain)  
 
 **Title:**  
-*TBC*
+*Spatio-temporal generation of precipitation with a focus on large-scale dry and heavy rain events*
 
 **Abstract:**  
-TBC
+Stochastic weather generators are fast statistical models that simulate realistic weather sequences for climate impact assessment. Existing generators, however, often fail to reproduce the large-scale spatio-temporal dependence of rainfall occurrence and intensity, particularly for extreme precipitation. We develop a weather generator for daily precipitation by extending the classical multivariate hidden Markov model with spatial latent processes. Rainfall occurrence and intensity are driven by distinct spatio-temporal latent fields with separate covariance structures, allowing different dependence dynamics. Rainfall intensity is simulated conditionally on occurrence, ensuring coherent transitions between dry and wet conditions across space and time. The marginal distribution is modelled using the Extended Generalised Pareto Distribution (EGPD), providing a unified representation of both the bulk and the tail. The generator is applied to 51 years of daily precipitation data from 37 weather stations across France. Four interpretable hidden states are identified, consistent with known meteorological patterns. Simulations are assessed through several model-agnostic metrics, targeting marginal, spatial, and spatio-temporal properties. Results demonstrate that the proposed generator accurately reproduces rainfall statistics across a wide range of spatial and temporal scales, including droughts and extreme precipitation events, validating its relevance for climate risk assessment.
 
 **Connection details:**  
 [Join the seminar on Microsoft Teams](https://teams.microsoft.com/meet/349080320615578?p=MrknbOLzIhJmewxAjO)
 
 **Meeting ID:** 349 080 320 615 578  
 **Passcode:** ZL64qq2j
+
 
 ---
 
